@@ -1,0 +1,602 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Product 1",
+    "category": "Electronics",
+    "price": 13.75
+  },
+  {
+    "product_id": 2,
+    "product_name": "Product 2",
+    "category": "Clothing",
+    "price": 17.5
+  },
+  {
+    "product_id": 3,
+    "product_name": "Product 3",
+    "category": "Home",
+    "price": 21.25
+  },
+  {
+    "product_id": 4,
+    "product_name": "Product 4",
+    "category": "Books",
+    "price": 25.0
+  },
+  {
+    "product_id": 5,
+    "product_name": "Product 5",
+    "category": "Sports",
+    "price": 28.75
+  },
+  {
+    "product_id": 6,
+    "product_name": "Product 6",
+    "category": "Beauty",
+    "price": 32.5
+  },
+  {
+    "product_id": 7,
+    "product_name": "Product 7",
+    "category": "Toys",
+    "price": 36.25
+  },
+  {
+    "product_id": 8,
+    "product_name": "Product 8",
+    "category": "Grocery",
+    "price": 40.0
+  },
+  {
+    "product_id": 9,
+    "product_name": "Product 9",
+    "category": "Electronics",
+    "price": 43.75
+  },
+  {
+    "product_id": 10,
+    "product_name": "Product 10",
+    "category": "Clothing",
+    "price": 47.5
+  },
+  {
+    "product_id": 11,
+    "product_name": "Product 11",
+    "category": "Home",
+    "price": 51.25
+  },
+  {
+    "product_id": 12,
+    "product_name": "Product 12",
+    "category": "Books",
+    "price": 55.0
+  },
+  {
+    "product_id": 13,
+    "product_name": "Product 13",
+    "category": "Sports",
+    "price": 58.75
+  },
+  {
+    "product_id": 14,
+    "product_name": "Product 14",
+    "category": "Beauty",
+    "price": 62.5
+  },
+  {
+    "product_id": 15,
+    "product_name": "Product 15",
+    "category": "Toys",
+    "price": 66.25
+  },
+  {
+    "product_id": 16,
+    "product_name": "Product 16",
+    "category": "Grocery",
+    "price": 70.0
+  },
+  {
+    "product_id": 17,
+    "product_name": "Product 17",
+    "category": "Electronics",
+    "price": 73.75
+  },
+  {
+    "product_id": 18,
+    "product_name": "Product 18",
+    "category": "Clothing",
+    "price": 77.5
+  },
+  {
+    "product_id": 19,
+    "product_name": "Product 19",
+    "category": "Home",
+    "price": 81.25
+  },
+  {
+    "product_id": 20,
+    "product_name": "Product 20",
+    "category": "Books",
+    "price": 85.0
+  },
+  {
+    "product_id": 21,
+    "product_name": "Product 21",
+    "category": "Sports",
+    "price": 88.75
+  },
+  {
+    "product_id": 22,
+    "product_name": "Product 22",
+    "category": "Beauty",
+    "price": 92.5
+  },
+  {
+    "product_id": 23,
+    "product_name": "Product 23",
+    "category": "Toys",
+    "price": 96.25
+  },
+  {
+    "product_id": 24,
+    "product_name": "Product 24",
+    "category": "Grocery",
+    "price": 100.0
+  },
+  {
+    "product_id": 25,
+    "product_name": "Product 25",
+    "category": "Electronics",
+    "price": 103.75
+  },
+  {
+    "product_id": 26,
+    "product_name": "Product 26",
+    "category": "Clothing",
+    "price": 107.5
+  },
+  {
+    "product_id": 27,
+    "product_name": "Product 27",
+    "category": "Home",
+    "price": 111.25
+  },
+  {
+    "product_id": 28,
+    "product_name": "Product 28",
+    "category": "Books",
+    "price": 115.0
+  },
+  {
+    "product_id": 29,
+    "product_name": "Product 29",
+    "category": "Sports",
+    "price": 118.75
+  },
+  {
+    "product_id": 30,
+    "product_name": "Product 30",
+    "category": "Beauty",
+    "price": 122.5
+  },
+  {
+    "product_id": 31,
+    "product_name": "Product 31",
+    "category": "Toys",
+    "price": 126.25
+  },
+  {
+    "product_id": 32,
+    "product_name": "Product 32",
+    "category": "Grocery",
+    "price": 130.0
+  },
+  {
+    "product_id": 33,
+    "product_name": "Product 33",
+    "category": "Electronics",
+    "price": 133.75
+  },
+  {
+    "product_id": 34,
+    "product_name": "Product 34",
+    "category": "Clothing",
+    "price": 137.5
+  },
+  {
+    "product_id": 35,
+    "product_name": "Product 35",
+    "category": "Home",
+    "price": 141.25
+  },
+  {
+    "product_id": 36,
+    "product_name": "Product 36",
+    "category": "Books",
+    "price": 145.0
+  },
+  {
+    "product_id": 37,
+    "product_name": "Product 37",
+    "category": "Sports",
+    "price": 148.75
+  },
+  {
+    "product_id": 38,
+    "product_name": "Product 38",
+    "category": "Beauty",
+    "price": 152.5
+  },
+  {
+    "product_id": 39,
+    "product_name": "Product 39",
+    "category": "Toys",
+    "price": 156.25
+  },
+  {
+    "product_id": 40,
+    "product_name": "Product 40",
+    "category": "Grocery",
+    "price": 160.0
+  },
+  {
+    "product_id": 41,
+    "product_name": "Product 41",
+    "category": "Electronics",
+    "price": 163.75
+  },
+  {
+    "product_id": 42,
+    "product_name": "Product 42",
+    "category": "Clothing",
+    "price": 167.5
+  },
+  {
+    "product_id": 43,
+    "product_name": "Product 43",
+    "category": "Home",
+    "price": 171.25
+  },
+  {
+    "product_id": 44,
+    "product_name": "Product 44",
+    "category": "Books",
+    "price": 175.0
+  },
+  {
+    "product_id": 45,
+    "product_name": "Product 45",
+    "category": "Sports",
+    "price": 178.75
+  },
+  {
+    "product_id": 46,
+    "product_name": "Product 46",
+    "category": "Beauty",
+    "price": 182.5
+  },
+  {
+    "product_id": 47,
+    "product_name": "Product 47",
+    "category": "Toys",
+    "price": 186.25
+  },
+  {
+    "product_id": 48,
+    "product_name": "Product 48",
+    "category": "Grocery",
+    "price": 190.0
+  },
+  {
+    "product_id": 49,
+    "product_name": "Product 49",
+    "category": "Electronics",
+    "price": 193.75
+  },
+  {
+    "product_id": 50,
+    "product_name": "Product 50",
+    "category": "Clothing",
+    "price": 197.5
+  },
+  {
+    "product_id": 51,
+    "product_name": "Product 51",
+    "category": "Home",
+    "price": 201.25
+  },
+  {
+    "product_id": 52,
+    "product_name": "Product 52",
+    "category": "Books",
+    "price": 205.0
+  },
+  {
+    "product_id": 53,
+    "product_name": "Product 53",
+    "category": "Sports",
+    "price": 208.75
+  },
+  {
+    "product_id": 54,
+    "product_name": "Product 54",
+    "category": "Beauty",
+    "price": 212.5
+  },
+  {
+    "product_id": 55,
+    "product_name": "Product 55",
+    "category": "Toys",
+    "price": 216.25
+  },
+  {
+    "product_id": 56,
+    "product_name": "Product 56",
+    "category": "Grocery",
+    "price": 220.0
+  },
+  {
+    "product_id": 57,
+    "product_name": "Product 57",
+    "category": "Electronics",
+    "price": 223.75
+  },
+  {
+    "product_id": 58,
+    "product_name": "Product 58",
+    "category": "Clothing",
+    "price": 227.5
+  },
+  {
+    "product_id": 59,
+    "product_name": "Product 59",
+    "category": "Home",
+    "price": 231.25
+  },
+  {
+    "product_id": 60,
+    "product_name": "Product 60",
+    "category": "Books",
+    "price": 235.0
+  },
+  {
+    "product_id": 61,
+    "product_name": "Product 61",
+    "category": "Sports",
+    "price": 238.75
+  },
+  {
+    "product_id": 62,
+    "product_name": "Product 62",
+    "category": "Beauty",
+    "price": 242.5
+  },
+  {
+    "product_id": 63,
+    "product_name": "Product 63",
+    "category": "Toys",
+    "price": 246.25
+  },
+  {
+    "product_id": 64,
+    "product_name": "Product 64",
+    "category": "Grocery",
+    "price": 250.0
+  },
+  {
+    "product_id": 65,
+    "product_name": "Product 65",
+    "category": "Electronics",
+    "price": 253.75
+  },
+  {
+    "product_id": 66,
+    "product_name": "Product 66",
+    "category": "Clothing",
+    "price": 257.5
+  },
+  {
+    "product_id": 67,
+    "product_name": "Product 67",
+    "category": "Home",
+    "price": 261.25
+  },
+  {
+    "product_id": 68,
+    "product_name": "Product 68",
+    "category": "Books",
+    "price": 265.0
+  },
+  {
+    "product_id": 69,
+    "product_name": "Product 69",
+    "category": "Sports",
+    "price": 268.75
+  },
+  {
+    "product_id": 70,
+    "product_name": "Product 70",
+    "category": "Beauty",
+    "price": 272.5
+  },
+  {
+    "product_id": 71,
+    "product_name": "Product 71",
+    "category": "Toys",
+    "price": 276.25
+  },
+  {
+    "product_id": 72,
+    "product_name": "Product 72",
+    "category": "Grocery",
+    "price": 280.0
+  },
+  {
+    "product_id": 73,
+    "product_name": "Product 73",
+    "category": "Electronics",
+    "price": 283.75
+  },
+  {
+    "product_id": 74,
+    "product_name": "Product 74",
+    "category": "Clothing",
+    "price": 287.5
+  },
+  {
+    "product_id": 75,
+    "product_name": "Product 75",
+    "category": "Home",
+    "price": 291.25
+  },
+  {
+    "product_id": 76,
+    "product_name": "Product 76",
+    "category": "Books",
+    "price": 295.0
+  },
+  {
+    "product_id": 77,
+    "product_name": "Product 77",
+    "category": "Sports",
+    "price": 298.75
+  },
+  {
+    "product_id": 78,
+    "product_name": "Product 78",
+    "category": "Beauty",
+    "price": 302.5
+  },
+  {
+    "product_id": 79,
+    "product_name": "Product 79",
+    "category": "Toys",
+    "price": 306.25
+  },
+  {
+    "product_id": 80,
+    "product_name": "Product 80",
+    "category": "Grocery",
+    "price": 310.0
+  },
+  {
+    "product_id": 81,
+    "product_name": "Product 81",
+    "category": "Electronics",
+    "price": 313.75
+  },
+  {
+    "product_id": 82,
+    "product_name": "Product 82",
+    "category": "Clothing",
+    "price": 317.5
+  },
+  {
+    "product_id": 83,
+    "product_name": "Product 83",
+    "category": "Home",
+    "price": 321.25
+  },
+  {
+    "product_id": 84,
+    "product_name": "Product 84",
+    "category": "Books",
+    "price": 325.0
+  },
+  {
+    "product_id": 85,
+    "product_name": "Product 85",
+    "category": "Sports",
+    "price": 328.75
+  },
+  {
+    "product_id": 86,
+    "product_name": "Product 86",
+    "category": "Beauty",
+    "price": 332.5
+  },
+  {
+    "product_id": 87,
+    "product_name": "Product 87",
+    "category": "Toys",
+    "price": 336.25
+  },
+  {
+    "product_id": 88,
+    "product_name": "Product 88",
+    "category": "Grocery",
+    "price": 340.0
+  },
+  {
+    "product_id": 89,
+    "product_name": "Product 89",
+    "category": "Electronics",
+    "price": 343.75
+  },
+  {
+    "product_id": 90,
+    "product_name": "Product 90",
+    "category": "Clothing",
+    "price": 347.5
+  },
+  {
+    "product_id": 91,
+    "product_name": "Product 91",
+    "category": "Home",
+    "price": 351.25
+  },
+  {
+    "product_id": 92,
+    "product_name": "Product 92",
+    "category": "Books",
+    "price": 355.0
+  },
+  {
+    "product_id": 93,
+    "product_name": "Product 93",
+    "category": "Sports",
+    "price": 358.75
+  },
+  {
+    "product_id": 94,
+    "product_name": "Product 94",
+    "category": "Beauty",
+    "price": 362.5
+  },
+  {
+    "product_id": 95,
+    "product_name": "Product 95",
+    "category": "Toys",
+    "price": 366.25
+  },
+  {
+    "product_id": 96,
+    "product_name": "Product 96",
+    "category": "Grocery",
+    "price": 370.0
+  },
+  {
+    "product_id": 97,
+    "product_name": "Product 97",
+    "category": "Electronics",
+    "price": 373.75
+  },
+  {
+    "product_id": 98,
+    "product_name": "Product 98",
+    "category": "Clothing",
+    "price": 377.5
+  },
+  {
+    "product_id": 99,
+    "product_name": "Product 99",
+    "category": "Home",
+    "price": 381.25
+  },
+  {
+    "product_id": 100,
+    "product_name": "Product 100",
+    "category": "Books",
+    "price": 385.0
+  }
+]
