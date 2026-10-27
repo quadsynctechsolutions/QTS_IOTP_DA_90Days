@@ -1,0 +1,1536 @@
+product_id,product_name,category,sub_category,brand,mrp,rating,stock_qty
+PROD1401,Nike Formal Shoes X,Fashion,Footwear,Nike,3679,3.7,152
+PROD1662,Nike Formal Shirt Plus, Fashion ,Men's Clothing,Nike,"₹1,059",4.9,307
+PROD1132,Noise Gaming Laptop Plus,Electronics,Laptops,Noise,45879,3.7,539
+PROD2060,McGraw Hill Thriller Paperback X,BOOKS,Fiction,McGraw Hill,259,4.3,504
+PROD1604,Adidas Saree 2.0,Fashion, Women's Clothing ,Adidas,839,4.5,427
+PROD1559,Levis Hoodie Lite,Fashion,Men's Clothing,Levis,,5.0,529
+PROD1041,Apple Wireless Earbuds Pro,Electronics,Headphones,Apple,7829,4.8,495
+PROD2406,Funskool Remote Control Car Max,Toys & Games,TOYS,Funskool,229,4.0,445
+PROD1995,Wipro Lunch Box Set Pro,Home & Kitchen,cookware,Wipro,719,4.1,439
+PROD1147,Lenovo Ultrabook Essential,Electronics,Laptops,Lenovo,35609,3.7,314
+PROD2292,Biotique Eau de Parfum Lite,Beauty & Personal Care,Fragrances,Biotique,1809,4.1,156
+PROD2480,Haldiram Protein Bar Box Essential,Grocery,Snacks & Beverages,Haldiram,399,4.5,58
+PROD1542,Adidas Running Shoes Max,FASHION,Footwear,Adidas,Rs. 509,4.8,370
+PROD2067, McGraw Hill Classic Edition Classic ,Books,Fiction,McGraw Hill,459,3.5,424
+PROD2482,Amul Dry Fruits Pack X,Grocery,Snacks & Beverages,Amul,299,3.7,490
+PROD1956,Havells Non-Stick Pan Set Lite,Home & Kitchen, Cookware ,Havells,Rs. 1049,4.3,212
+PROD1696,Biba Kurti Max,fashion,Women's Clothing,Biba,1519,4.1,278
+PROD1574,Bata Formal Shoes X, Fashion ,Footwear,Bata,"₹2,289",4.5,2
+PROD2367,Boldfit Badminton Racket Pro,Sports & Fitness,Outdoor,Boldfit,1009,3.9,181
+PROD1707,W Cotton T-Shirt Classic,Fashion,MEN'S CLOTHING,W,1689,3.8,599
+PROD2090,Penguin Competitive Exam Prep Lite,Books,Academic,Penguin,1249,4.8,32
+PROD1779,Havells Electric Kettle Lite,Home & Kitchen,Appliances,Havells,4219,4.1,249
+PROD1357,Nike Hoodie Classic,Fashion, Men's Clothing ,Nike,1759,4.8,382
+PROD2373,SG Dumbbell Set Essential,Sports & Fitness, Gym Equipment ,SG,8109,4.7,-163
+PROD1872,Nilkamal Office Chair X,Home & Kitchen,Furniture,Nilkamal,4589,3.9,389
+PROD1462,Puma Western Dress Plus,Fashion,Women's Clothing,Puma,2179,3.9,442
+PROD2125,HarperCollins Productivity Book Pro,Books,Self-Help,HarperCollins,₹329,41.0,196
+PROD1993,Wipro Electric Kettle Max,HOME & KITCHEN,Appliances,Wipro,3889,3.4,568
+PROD2279,Lakme Hair Dryer Plus,Beauty & Personal Care,Haircare,Lakme,299,3.4,322
+PROD1849,Wipro Bookshelf Max,Home & Kitchen,Furniture,Wipro,8159,4.4,574
+PROD1663,Puma Saree X,Fashion,Women's Clothing,Puma,689,4.5,428
+PROD2271,Dove Eau de Parfum Plus,Beauty & Personal Care,Fragrances,Dove,Rs. 1979,3.2,278
+PROD1158,Sony Gaming Laptop Max,Electronics,Laptops,Sony,36569,3.3,523
+PROD1726, Allen Solly Hoodie Plus ,Fashion,Men's Clothing,Allen Solly,"₹1,789",5.0,147
+PROD1859,Nilkamal Air Fryer Pro,Home & Kitchen,Appliances,,1789,4.1,128
+PROD1799,Wipro Electric Kettle Lite,Home & Kitchen,Appliances,Wipro,4129,3.8,329
+PROD2158,Dove Hair Oil Pro,Beauty & Personal Care,Haircare,Dove,1299,,126
+PROD2193,Wow Shampoo X,Beauty & Personal Care,Haircare,Wow,189,3.9,37
+PROD1273,Samsung Gaming Laptop Essential,Electronics,Laptops,Samsung,44929,3.9,375
+PROD2467,Tata Protein Bar Box Essential,Grocery,Snacks & Beverages,Tata,Rs. 259,5.0,308
+PROD1286,Samsung Gaming Laptop Classic,Electronics,Laptops,Samsung,63849,3.7,496
+PROD2341,SG Cricket Bat Plus,Sports & Fitness, Outdoor ,SG,8749,4.6,297
+PROD1945,Milton Pressure Cooker Essential,Home & Kitchen,Cookware,Milton,Rs. 1029,4.6,480
+PROD1535,Roadster Saree Pro,Fashion,Women's Clothing,Roadster,"₹1,159",4.0,244
+PROD2221,Mamaearth Moisturizer Max,Beauty & Personal Care,Skincare,Mamaearth,Rs. 1009,4.2,245
+PROD1293,Realme Smartphone 5G Plus,Electronics,Mobiles,Realme,"₹61,979",4.1,482
+PROD1253,Xiaomi Smartphone 4G Pro,Electronics,Mobiles,Xiaomi,Rs. 47879,4.3,436
+PROD1230,Lenovo Gaming Laptop Max,Electronics,laptops,Lenovo,36239,4.9,162
+PROD2008,Prestige Pressure Cooker X,Home & Kitchen,Cookware,Prestige,1429,3.8,526
+PROD1169,boAt Laptop 15 inch Plus,Electronics,Laptops,boAt,"₹55,639",,599
+PROD2324,Boldfit Badminton Racket Max,Sports & Fitness,outdoor,Boldfit,"₹5,549",4.3,236
+PROD1750,Pigeon Non-Stick Pan Set Lite,Home & Kitchen,Cookware,Pigeon,3389,3.7,538
+PROD2260,Wow Hair Dryer Pro,Beauty & Personal Care, HAIRCARE ,Wow,569,5.0,595
+PROD2014,Pigeon Mixer Grinder 2.0,Home & Kitchen,Appliances,Pigeon,1419,,419
+PROD1960,Prestige Bookshelf X,HOME & KITCHEN,Furniture,Prestige,3949,3.9,264
+PROD2178,Lakme Shampoo 2.0,Beauty & Personal Care,Haircare,Lakme,749,4.0,204
+PROD1031,Lenovo Smartphone 5G 2.0,Electronics,mobiles,Lenovo,29179,4.5,33
+PROD1534,Bata Slim Fit Jeans Essential,Fashion,Men's Clothing,Bata,409,4.4,87
+PROD2226,Nivea Shampoo Lite,Beauty & Personal Care,Haircare,Nivea,329,4.8,343
+PROD1376,Levis Saree Pro,Fashion,Women's Clothing,Levis,719,4.7,438
+PROD1178,Xiaomi Gaming Laptop Pro,Electronics,Laptops,Xiaomi,90539,4.4,409
+PROD2465,Yoga Bar Instant Coffee Lite,Grocery,Snacks & Beverages,Yoga Bar,159,3.3,109
+PROD1996,Pigeon Pressure Cooker Max,HOME & KITCHEN,Cookware,Pigeon,1759,4.5,510
+PROD2058, Penguin Finance Book 2.0 ,Books,Self-Help,Penguin,579,3.8,71
+PROD2447,Hot Wheels Board Game Max,Toys & Games,Toys,Hot Wheels,2459,4.8,446
+PROD1447,Roadster Sandals 2.0,Fashion,Footwear,Roadster,2469,4.8,452
+PROD1374,Puma Formal Shirt X,Fashion,Men's Clothing,Puma,499,3.9,520
+PROD1851,Havells Study Table Max,Home & Kitchen,Furniture,Havells,16919,4.1,519
+PROD2444,Hot Wheels Board Game X,Toys & Games, Toys ,Hot Wheels,239,4.3,282
+PROD1600,Levis Formal Shoes Max,Fashion,Footwear,Levis,1869,3.2,418
+PROD2238,Wow Deodorant Pack Plus,Beauty & Personal Care,Fragrances,Wow,229,4.7,578
+PROD1325,HP Smartwatch Classic,Electronics,Smartwatches,HP,20739,4.5,398
+PROD1102, Realme Feature Phone Essential ,Electronics,Mobiles,Realme,59079,4.5,201
+PROD2400,Mattel Building Blocks Classic,Toys & Games,Toys,Mattel,1569,3.8,486
+PROD2039,Rupa Bestselling Novel Max,Books,Fiction,Rupa,149,3.6,463
+PROD1980,Milton Pressure Cooker 2.0,Home & Kitchen,Cookware,Milton,849,,417
+PROD2212,Nivea Shampoo Pro,Beauty & Personal Care,Haircare,Nivea,949,4.0,203
+PROD1089,Realme Fitness Band Max,Electronics, Smartwatches ,Realme,"₹3,089",4.7,474
+PROD2197,Nivea Eau de Parfum X,beauty & personal care,FRAGRANCES,Nivea,"₹2,099",4.3,254
+PROD1058,Apple Neckband Essential,Electronics,Headphones,Apple,2739,3.8,521
+PROD1513,W Slim Fit Jeans Essential,fashion,Men's Clothing,W,1209,3.8,252
+PROD1790,Wipro Electric Kettle Essential,Home & Kitchen,Appliances,Wipro,7579,4.9,554
+PROD1087,Lenovo Fitness Band Pro,Electronics,Smartwatches,Lenovo,9549,3.4,250
+PROD1829,Havells Bookshelf Plus,Home & Kitchen,Furniture,Havells,4639,4.5,175
+PROD2377,SG Yoga Mat Essential,Sports & Fitness,Gym Equipment,SG,4399,3.6,548
+PROD1349,Bata Formal Shoes Plus,Fashion,Footwear,Bata,Rs. 4859,4.2,463
+PROD1990,Philips Office Chair X,Home & Kitchen,Furniture,Philips,10389,4.4,148
+PROD2061,HarperCollins Medical Reference Lite,Books,Academic,HarperCollins,259,4.5,47
+PROD1578,Bata Cotton T-Shirt Classic,Fashion,Men's Clothing,Bata,1229,4.0,270
+PROD2137,Arihant Bestselling Novel Max,Books,Fiction,Arihant,309,,14
+PROD1880,Wipro Non-Stick Pan Set Classic,HOME & KITCHEN,Cookware,Wipro,899,4.4,421
+PROD1777,Pigeon Study Table Classic,Home & Kitchen,Furniture,Pigeon,2369,3.8,524
+PROD1698,Bata Western Dress 2.0,Fashion,Women's Clothing,Bata,₹959,3.5,311
+PROD2213,Mamaearth Eau de Parfum 2.0,Beauty & Personal Care,Fragrances,Mamaearth,Rs. 789,4.0,476
+PROD1260, Realme Smartwatch Pro ,Electronics,smartwatches,Realme,Rs. 4509,4.2,112
+PROD2001,Philips Air Fryer Max,Home & Kitchen,Appliances,Philips,3889,3.9,325
+PROD1258,Lenovo Smartwatch X, Electronics ,Smartwatches,Lenovo,"₹1,679",,15
+PROD1649,Biba Hoodie Max,Fashion,Men's Clothing,Biba,479,4.1,562
+PROD1233,Noise Smartphone 4G Lite,Electronics,Mobiles,Noise,21059,3.9,465
+PROD1824,Philips Pressure Cooker 2.0,Home & Kitchen,Cookware,Philips,519,4.4,76
+PROD1072, Noise Smartwatch Classic ,Electronics,Smartwatches,Noise,1569,4.2,545
+PROD1186,Samsung Feature Phone Plus,Electronics,Mobiles,Samsung,10639,4.0,364
+PROD2147,HarperCollins Competitive Exam Prep Max,Books,Academic,HarperCollins,Rs. 239,3.5,95
+PROD2239,Wow Eau de Parfum X,Beauty & Personal Care,Fragrances,Wow,309,4.0,361
+PROD1683,Roadster Cotton T-Shirt Essential,Fashion,Men's Clothing,Roadster,3049,4.1,386
+PROD1406,W Running Shoes Essential,Fashion,Footwear,W,519,4.9,138
+PROD1723, Levis Sandals Essential ,Fashion,Footwear,Levis,2579,4.7,549
+PROD1495,W Palazzo Set Lite,Fashion,Women's Clothing,W,939,3.9,78
+PROD1741, Bata Hoodie Lite ,Fashion,Men's Clothing,Bata,1109,3.8,155
+PROD2085,Arihant Productivity Book Classic,Books,Self-Help,Arihant,409,3.9,133
+PROD1809,Nilkamal Induction Cooktop Classic,Home & Kitchen,Appliances,Nilkamal,2249,4.4,71
+PROD2101,Arihant Competitive Exam Prep 2.0, Books , Academic ,Arihant,1279,4.7,58
+PROD1222,Xiaomi Over-Ear Headphones Pro,electronics,Headphones,Xiaomi,9199,4.8,231
+PROD2270,Mamaearth Deodorant Pack 2.0,Beauty & Personal Care,Fragrances,Mamaearth,389,3.8,69
+PROD1656,Nike Sneakers Essential,FASHION,Footwear,Nike,1889,3.8,78
+PROD2398,Decathlon Yoga Mat Max,Sports & Fitness,Gym Equipment,Decathlon,3829,3.7,474
+PROD1547,W Cotton T-Shirt Classic,Fashion,Men's Clothing,W,3009,4.1,239
+PROD2117,Rupa Competitive Exam Prep Classic,Books,Academic,Rupa,₹279,3.5,240
+PROD1704,Biba Slim Fit Jeans Essential,Fashion,Men's Clothing,Biba,529,3.5,151
+PROD1162, Realme Smartphone 5G Essential ,Electronics,Mobiles,Realme,"₹38,569",3.5,551
+PROD2471,Tata Green Tea Box Lite,Grocery,Snacks & Beverages,Tata,179,4.0,3
+PROD2403,Lego Remote Control Car Lite,Toys & Games,TOYS,Lego,1469,4.5,123
+PROD1139,Lenovo Feature Phone Max,ELECTRONICS,Mobiles,Lenovo,Rs. 19819,3.7,118
+PROD2187,Wow Moisturizer X, BEAUTY & PERSONAL CARE ,SKINCARE,Wow,509,4.5,75
+PROD1917,Milton Electric Kettle Max,Home & Kitchen,Appliances,Milton,1509,4.2,32
+PROD1034,Realme Smartphone 4G Essential,Electronics,Mobiles,Realme,9519,3.3,143
+PROD1377,W Saree Lite,Fashion,Women's Clothing,W,3889,4.2,448
+PROD1936,Prestige Non-Stick Pan Set Max,Home & Kitchen,Cookware,Prestige,"₹2,969",3.5,592
+PROD1431,Nike Cotton T-Shirt X,Fashion,men's clothing,Nike,2149,3.8,478
+PROD2240,Dove Moisturizer Max,Beauty & Personal Care,Skincare,Dove,399,3.4,349
+PROD2428,Funskool Remote Control Car 2.0,Toys & Games,Toys,Funskool,1499,4.5,458
+PROD1223,Realme Smartwatch Pro,Electronics,Smartwatches,Realme,11419,4.6,0
+PROD2389,Cosco Badminton Racket Max,Sports & Fitness,Outdoor,Cosco,3949,3.6,294
+PROD1526,Allen Solly Formal Shirt Max,Fashion,Men's Clothing,Allen Solly,₹669,4.3,427
+PROD2145,HarperCollins Classic Edition Max,Books,Fiction,HarperCollins,259,4.6,125
+PROD2216,Biotique Sunscreen SPF 50 2.0, Beauty & Personal Care ,Skincare,Biotique,1639,3.6,181
+PROD1975,Havells Bookshelf Plus,Home & Kitchen,Furniture,Havells,"₹2,549",4.2,129
+PROD1688,Biba Formal Shirt Max,Fashion,Men's Clothing,Biba,2669,5.0,90
+PROD2003,Nilkamal Induction Cooktop Max,Home & Kitchen,Appliances,Nilkamal,3119,4.0,144
+PROD1794,Pigeon Office Chair Lite,Home & Kitchen,Furniture,Pigeon,17379,3.9,227
+PROD1919,Milton Lunch Box Set Pro,Home & Kitchen,Cookware,Milton,Rs. 3499,3.8,572
+PROD1438,Puma Western Dress Classic,Fashion,Women's Clothing,Puma,569,3.9,69
+PROD1937,Nilkamal Lunch Box Set Plus,Home & Kitchen,Cookware,Nilkamal,899,4.3,301
+PROD1380,Allen Solly Sneakers Lite,Fashion,Footwear,Allen Solly,2149,3.8,268
+PROD1113, Lenovo Smartwatch 2.0 ,Electronics,Smartwatches,Lenovo,3929,4.4,469
+PROD1065,OnePlus Feature Phone X,Electronics,Mobiles,OnePlus,9209,4.1,283
+PROD1316,Apple Wireless Earbuds Classic,Electronics,Headphones,Apple,9479,4.1,431
+PROD1537,Allen Solly Hoodie 2.0,Fashion,Men's Clothing,Allen Solly,599,3.6,585
+PROD1429,Nike Saree Plus,FASHION,Women's Clothing,Nike,969,4.3,297
+PROD2220,Nivea Shampoo Lite, Beauty & Personal Care ,Haircare,Nivea,1419,3.1,376
+PROD1405,Allen Solly Kurti Max,Fashion,women's clothing,Allen Solly,749,3.8,476
+PROD1549,W Saree Max,FASHION,Women's Clothing,W,1329,4.2,38
+PROD1013, Realme Smartwatch Essential ,Electronics,Smartwatches,Realme,10939,4.3,205
+PROD2140,Penguin Medical Reference Classic,Books,Academic,Penguin,199,4.1,315
+PROD2175,Mamaearth Hair Dryer X, Beauty & Personal Care ,Haircare,Mamaearth,"₹3,189",3.9,21
+PROD1326,Noise Fitness Band X,Electronics,Smartwatches,Noise,12419,3.7,87
+PROD2099,Penguin Productivity Book Classic,Books,Self-Help,Penguin,319,3.9,178
+PROD1153,Sony Smartphone 4G X,Electronics,Mobiles,Sony,26949,4.1,209
+PROD1026,HP Smartphone 4G Pro,Electronics,MOBILES,HP,11559,4.2,414
+PROD2198,Lakme Face Serum Essential,Beauty & Personal Care,Skincare,Lakme,249,4.1,489
+PROD2280,Lakme Hair Oil Plus,Beauty & Personal Care,Haircare,Lakme,699,4.0,63
+PROD1088,Apple Neckband Pro,Electronics,Headphones,Apple,929,4.7,176
+PROD2405,Lego Remote Control Car Plus,Toys & Games,TOYS,Lego,1279,5.0,241
+PROD2128,McGraw Hill Finance Book X,Books,Self-Help,McGraw Hill,299,3.3,15
+PROD1930,Havells Study Table 2.0,Home & Kitchen,Furniture,Havells,7139,4.2,329
+PROD1731,Puma Cotton T-Shirt X,Fashion,Men's Clothing,Puma,1019,4.6,77
+PROD1904,Nilkamal Electric Kettle Pro,Home & Kitchen,Appliances,Nilkamal,8389,3.5,238
+PROD2327,Boldfit Yoga Mat 2.0,Sports & Fitness,Gym Equipment,Boldfit,"₹3,159",3.6,174
+PROD1265, Sony Gaming Laptop Essential ,Electronics,Laptops,Sony,50389,,493
+PROD1133,Sony Smartphone 4G Lite,Electronics,Mobiles,Sony,18769,3.9,537
+PROD1256,Lenovo Feature Phone X,Electronics,Mobiles,Lenovo,46609,3.6,196
+PROD1010,Realme Over-Ear Headphones Pro,Electronics,headphones,Realme,1239,3.4,592
+PROD1780,Havells Bookshelf Max,Home & Kitchen,Furniture,Havells,16189,5.0,441
+PROD1144,Samsung Gaming Laptop Plus,Electronics,Laptops,Samsung,82779,4.4,449
+PROD2439,Mattel Building Blocks Plus,Toys & Games,Toys,Mattel,559,4.2,106
+PROD1317,Realme Gaming Laptop 2.0,Electronics,Laptops,Realme,34899,4.3,186
+PROD2256,Dove Moisturizer Max,Beauty & Personal Care,Skincare,Dove,209,3.3,229
+PROD1830,Prestige Office Chair Lite,home & kitchen,Furniture,Prestige,5569,4.1,165
+PROD2006,Milton Mixer Grinder 2.0,Home & Kitchen,Appliances,Milton,"₹1,949",3.6,332
+PROD1767,Philips Electric Kettle 2.0,Home & Kitchen,Appliances,Philips,8629,3.9,72
+PROD1929,Nilkamal Electric Kettle Max,Home & Kitchen,Appliances,Nilkamal,2059,3.8,183
+PROD2487,Tata Instant Coffee Classic,GROCERY,Snacks & Beverages,Tata,₹389,4.4,459
+PROD1005,OnePlus Fitness Band Classic,Electronics,Smartwatches,OnePlus,2669,3.8,559
+PROD1450,Bata Kurti 2.0,Fashion,Women's Clothing,Bata,2499,3.9,434
+PROD1718,Roadster Formal Shirt Classic,Fashion,Men's Clothing,Roadster,1379,4.0,546
+PROD1609,Levis Slim Fit Jeans Essential,Fashion,Men's Clothing,Levis,529,4.5,410
+PROD1188, boAt Smartwatch Plus ,Electronics,Smartwatches,boAt,6529,4.1,461
+PROD1624,Adidas Running Shoes Classic,Fashion,Footwear,Adidas,2859,5.0,411
+PROD2360,Nivia Cricket Bat X,Sports & Fitness,Outdoor,Nivia,719,4.7,476
+PROD1276,Sony Neckband Max,Electronics,Headphones,Sony,₹909,3.2,470
+PROD2041,Penguin Finance Book X,Books,Self-Help,Penguin,269,4.7,81
+PROD1891,Havells Non-Stick Pan Set Classic,Home & Kitchen,Cookware,Havells,Rs. 869,4.7,79
+PROD2335,Decathlon Yoga Mat Classic,Sports & Fitness, Gym Equipment ,Decathlon,9819,4.0,440
+PROD1602,Levis Western Dress Plus, Fashion ,Women's Clothing,Levis,1359,4.0,400
+PROD1385,Biba Hoodie Plus,Fashion,Men's Clothing,Biba,1079,3.5,336
+PROD2075,Rupa Medical Reference 2.0,Books, Academic ,Rupa,1339,4.0,416
+PROD1280,boAt Fitness Band Pro,Electronics,Smartwatches,boAt,1939,4.5,359
+PROD2133,Arihant Medical Reference 2.0,Books,academic,Arihant,379,4.1,440
+PROD1544,Puma Formal Shoes Max,Fashion,Footwear,Puma,2039,4.1,190
+PROD1922,Pigeon Lunch Box Set Pro,home & kitchen,Cookware,Pigeon,"₹2,859",5.0,168
+PROD2388,SG Cricket Bat 2.0,SPORTS & FITNESS,Outdoor,SG,6649,3.3,346
+PROD2497,Nescafe Dry Fruits Pack 2.0,Grocery,Snacks & Beverages,Nescafe,119,4.8,546
+PROD2072,McGraw Hill Finance Book Pro,books,Self-Help,McGraw Hill,249,4.5,140
+PROD1110,Sony Smartwatch Max,Electronics,Smartwatches,Sony,6089,4.2,269
+PROD1289,Noise Over-Ear Headphones Classic, Electronics ,Headphones,Noise,4029,4.0,104
+PROD1887,Philips Air Fryer 2.0,Home & Kitchen,Appliances,Philips,1479,4.5,17
+PROD1391,Roadster Saree Pro,Fashion,Women's Clothing,Roadster,"₹3,549",,10
+PROD1126,Realme Smartwatch Pro, Electronics ,Smartwatches,Realme,4369,3.5,254
+PROD2413,Lego Board Game 2.0,toys & games,Toys,Lego,389,3.3,512
+PROD2404,Funskool Remote Control Car X,Toys & Games,Toys,Funskool,Rs. 1099,3.6,483
+PROD1163,Lenovo Neckband Plus,Electronics,Headphones,Lenovo,Rs. 1439,4.5,360
+PROD2204,Lakme Hair Oil Classic,Beauty & Personal Care,Haircare,Lakme,209,4.7,410
+PROD1788,Havells Lunch Box Set Pro,Home & Kitchen, Cookware ,Havells,Rs. 1119,2.8,114
+PROD1487,Roadster Cotton T-Shirt Plus,Fashion,Men's Clothing,Roadster,2069,3.5,426
+PROD2420,Hot Wheels Remote Control Car Essential,Toys & Games,TOYS,Hot Wheels,289,4.3,412
+PROD2450,Hot Wheels Building Blocks X,Toys & Games,Toys,Hot Wheels,2069,4.8,432
+PROD1136,boAt Gaming Laptop Max,Electronics,Laptops,boAt,42919,5.0,115
+PROD1303,Noise Over-Ear Headphones Classic,electronics,Headphones,,3259,3.7,230
+PROD1047,Samsung Laptop 15 inch X,Electronics,Laptops,Samsung,118289,4.3,475
+PROD1989,Philips Lunch Box Set Lite,Home & Kitchen, Cookware ,Philips,709,3.7,18
+PROD1994,Havells Pressure Cooker Max, HOME & KITCHEN , Cookware ,Havells,"₹3,049",4.3,592
+PROD1070,Lenovo Ultrabook 2.0,Electronics,Laptops,Lenovo,41439,4.1,476
+PROD2176,Lakme Hair Dryer Max,Beauty & Personal Care,Haircare,Lakme,1539,4.6,272
+PROD2007, Havells Non-Stick Pan Set Max ,Home & Kitchen,Cookware,Havells,479,4.1,482
+PROD1871,Milton Induction Cooktop Plus,Home & Kitchen,appliances,Milton,1449,4.7,469
+PROD1315,Sony Smartwatch X,Electronics,Smartwatches,Sony,10659,4.5,160
+PROD1333,Nike Palazzo Set Essential,Fashion,WOMEN'S CLOTHING,Nike,Rs. 779,4.5,266
+PROD1644,Roadster Saree X,Fashion,Women's Clothing,Roadster,679,4.3,123
+PROD1516,Biba Cotton T-Shirt X,Fashion,Men's Clothing,Biba,549,4.6,391
+PROD1979,Havells Air Fryer 2.0,Home & Kitchen,Appliances,,"₹1,499",4.4,66
+PROD1772,Philips Office Chair Pro,Home & Kitchen,Furniture,Philips,2819,4.0,424
+PROD1075,boAt Feature Phone Classic,Electronics,Mobiles,boAt,18629,3.9,507
+PROD1509,Bata Sandals Lite,Fashion,footwear,Bata,2729,3.5,467
+PROD1254,Xiaomi Over-Ear Headphones Lite,Electronics,Headphones,Xiaomi,1179,4.1,223
+PROD1617,Adidas Slim Fit Jeans Essential,Fashion,Men's Clothing,Adidas,"₹1,309",4.0,482
+PROD2066,Penguin Bestselling Novel Essential,Books,Fiction,Penguin,609,4.3,363
+PROD1092,Samsung Fitness Band Classic,Electronics,Smartwatches,Samsung,22739,4.6,332
+PROD1442,Biba Palazzo Set Pro,Fashion,Women's Clothing,Biba,3499,4.5,15
+PROD2094,Penguin Engineering Guide Lite,Books,Academic,Penguin,459,4.5,66
+PROD1501,Roadster Saree Lite,Fashion,Women's Clothing,Roadster,3819,3.6,564
+PROD1071,Sony Smartphone 5G Plus, Electronics ,Mobiles,Sony,19309,5.0,262
+PROD2126,Arihant Productivity Book 2.0,Books,Self-Help,Arihant,229,3.5,82
+PROD1261,Sony Smartphone 5G Pro,Electronics, Mobiles ,Sony,"₹37,189",4.5,198
+PROD1456, Adidas Running Shoes Max ,Fashion,Footwear,Adidas,879,4.7,235
+PROD1518,Puma Sandals Lite,Fashion,Footwear,Puma,₹579,4.4,91
+PROD2314,Decathlon Resistance Bands Lite,Sports & Fitness,Gym Equipment,Decathlon,Rs. 2339,4.0,224
+PROD2095,Rupa Finance Book Max,Books,Self-Help,Rupa,289,4.0,187
+PROD2344,SG Yoga Mat Lite,Sports & Fitness,Gym Equipment,SG,5279,3.9,358
+PROD1815,Pigeon Electric Kettle Lite,Home & Kitchen,Appliances,Pigeon,2679,3.9,78
+PROD2372,Boldfit Dumbbell Set 2.0,Sports & Fitness,Gym Equipment,Boldfit,409,4.4,244
+PROD1527,Adidas Formal Shoes X,Fashion,Footwear,Adidas,539,,315
+PROD1925,Prestige Non-Stick Pan Set Max,Home & Kitchen,Cookware,Prestige,1429,4.3,156
+PROD1204,boAt Feature Phone Max,Electronics,Mobiles,boAt,37769,4.3,247
+PROD1283,Xiaomi Smartwatch Essential,Electronics,Smartwatches,Xiaomi,1509,5.0,68
+PROD1309,boAt Wireless Earbuds Lite,Electronics,Headphones,boAt,8919,4.3,200
+PROD1812,Pigeon Lunch Box Set Lite, Home & Kitchen ,Cookware,Pigeon,1839,3.8,224
+PROD1496,Biba Western Dress Max,Fashion, Women's Clothing ,Biba,1289,3.2,340
+PROD1550,Allen Solly Sneakers Pro,Fashion,Footwear,Allen Solly,1769,3.7,221
+PROD1719,Levis Sandals 2.0,Fashion,Footwear,Levis,2509,5.0,284
+PROD1040,OnePlus Fitness Band Pro,ELECTRONICS,Smartwatches,OnePlus,7459,4.1,323
+PROD1011,Noise Gaming Laptop Plus,Electronics,Laptops,,36679,4.5,407
+PROD1063,HP Fitness Band Classic,Electronics,Smartwatches,HP,0,3.8,362
+PROD2319, SG Resistance Bands Max ,Sports & Fitness,Gym Equipment,,759,3.8,289
+PROD1957,Wipro Lunch Box Set Lite,Home & Kitchen,Cookware,Wipro,2979,3.9,405
+PROD1394,Nike Running Shoes Pro,Fashion,Footwear,Nike,1669,4.5,222
+PROD2468,Haldiram Dry Fruits Pack X,Grocery,Snacks & Beverages,Haldiram,₹119,3.4,429
+PROD1479,W Western Dress Plus,Fashion,Women's Clothing,W,3769,4.3,28
+PROD1645,Levis Formal Shirt X,fashion,Men's Clothing,Levis,989,4.2,56
+PROD1557,Nike Sneakers Essential,Fashion,FOOTWEAR,Nike,819,4.2,287
+PROD2134,McGraw Hill Bestselling Novel 2.0,Books,Fiction,McGraw Hill,509,4.3,59
+PROD1675,Bata Hoodie X,Fashion,Men's Clothing,Bata,469,3.7,340
+PROD1366,W Hoodie Pro,Fashion,men's clothing,W,2179,5.0,288
+PROD1486,Adidas Sneakers X,Fashion,Footwear,Adidas,669,3.7,14
+PROD1248,Noise Smartphone 4G Classic,Electronics,Mobiles,Noise,38289,4.3,335
+PROD1608,Adidas Western Dress Max,Fashion,Women's Clothing,Adidas,"₹1,709",4.5,431
+PROD1961,Philips Lunch Box Set Classic,Home & Kitchen,COOKWARE,Philips,"₹3,029",3.0,76
+PROD1984,Havells Bookshelf 2.0,Home & Kitchen,Furniture,Havells,6729,3.8,417
+PROD1692,Nike Hoodie Pro,Fashion,Men's Clothing,Nike,609,4.1,367
+PROD2452,Mattel Remote Control Car Classic,Toys & Games,Toys,Mattel,"₹2,699",,581
+PROD1593,W Formal Shirt Plus,Fashion, Men's Clothing ,W,2559,4.5,562
+PROD2064, HarperCollins Finance Book Essential ,Books,Self-Help,HarperCollins,269,3.8,395
+PROD1067,Realme Feature Phone Classic, Electronics , Mobiles ,Realme,Rs. 42609,4.2,131
+PROD1336,Bata Saree Max,Fashion,Women's Clothing,Bata,4789,3.9,127
+PROD2306,Decathlon Badminton Racket X,Sports & Fitness,Outdoor,Decathlon,1889,3.7,396
+PROD1652,Roadster Formal Shoes X,Fashion,Footwear,Roadster,"₹1,239",4.4,256
+PROD2287,Mamaearth Deodorant Pack Plus,Beauty & Personal Care,Fragrances,Mamaearth,509,3.3,114
+PROD2219,Dove Deodorant Pack Max,Beauty & Personal Care,Fragrances,Dove,329,4.1,217
+PROD1304,Apple Smartphone 5G Essential,Electronics,Mobiles,Apple,Rs. 33779,3.5,468
+PROD2409,Funskool Board Game Plus,Toys & Games,Toys,Funskool,₹479,4.0,527
+PROD1209, OnePlus Smartwatch X ,Electronics,Smartwatches,OnePlus,"₹1,659",4.6,183
+PROD2491,Amul Dry Fruits Pack Max,Grocery,snacks & beverages,Amul,1219,4.2,163
+PROD2184,Nivea Hair Dryer Essential,Beauty & Personal Care,Haircare,Nivea,Rs. 779,4.6,478
+PROD1068,Apple Gaming Laptop Max,Electronics,Laptops,Apple,113809,3.8,393
+PROD1620,Adidas Saree X,fashion,Women's Clothing,Adidas,639,4.8,300
+PROD1076,Samsung Neckband Lite,Electronics,headphones,Samsung,789,4.3,120
+PROD1342,W Formal Shirt Lite,Fashion,Men's Clothing,W,399,5.0,163
+PROD1712,Puma Saree Essential,Fashion,Women's Clothing,Puma,1039,3.1,474
+PROD1934,Wipro Air Fryer Max,Home & Kitchen,Appliances,Wipro,7299,4.1,205
+PROD2334,Boldfit Dumbbell Set Classic,Sports & Fitness,Gym Equipment,Boldfit,519,4.3,349
+PROD2127,Penguin Bestselling Novel Pro,Books,Fiction,Penguin,₹329,4.8,20
+PROD1991,Pigeon Office Chair 2.0,Home & Kitchen,Furniture,Pigeon,2759,4.4,105
+PROD1736,Adidas Saree Max,fashion,Women's Clothing,Adidas,2169,4.0,45
+PROD1908,Prestige Electric Kettle 2.0,Home & Kitchen,Appliances,Prestige,4089,4.4,104
+PROD2357,Cosco Cricket Bat Pro,sports & fitness,Outdoor,,"₹2,379",3.4,266
+PROD2040,Penguin Engineering Guide Max,BOOKS,Academic,Penguin,Rs. 489,4.3,421
+PROD2077,Rupa Engineering Guide Classic,Books,Academic,Rupa,209,3.7,396
+PROD1358,Roadster Formal Shoes Essential,Fashion,Footwear,Roadster,769,3.7,555
+PROD2110,HarperCollins Medical Reference Essential,Books,Academic,HarperCollins,209,5.0,51
+PROD1098,Samsung Smartphone 4G Pro, Electronics ,Mobiles,Samsung,15319,3.9,155
+PROD2118,HarperCollins Engineering Guide Classic,Books,Academic,HarperCollins,1059,4.6,348
+PROD1898,Prestige Office Chair Essential,Home & Kitchen,Furniture,Prestige,11879,3.3,319
+PROD1085,OnePlus Smartwatch Pro, Electronics ,Smartwatches,OnePlus,1989,4.0,112
+PROD1055,Noise Smartwatch 2.0,Electronics,Smartwatches,Noise,6289,3.6,48
+PROD1828,Milton Air Fryer Max,Home & Kitchen, Appliances ,Milton,Rs. 1789,3.8,454
+PROD1693,Roadster Running Shoes Lite,fashion,Footwear,Roadster,1979,4.4,113
+PROD1227,Lenovo Wireless Earbuds 2.0,Electronics,Headphones,Lenovo,1499,3.9,53
+PROD1175,HP Over-Ear Headphones Essential,Electronics,Headphones,HP,899,3.8,9
+PROD1029,HP Neckband Essential,Electronics,Headphones,HP,5619,4.1,254
+PROD2139,Penguin Thriller Paperback Classic,BOOKS,FICTION,Penguin,179,3.8,321
+PROD2203,Biotique Hair Dryer Lite,Beauty & Personal Care,Haircare,Biotique,549,,385
+PROD2469,Nescafe Instant Coffee Plus,grocery,Snacks & Beverages,Nescafe,389,3.9,110
+PROD1138,Xiaomi Ultrabook X,Electronics,Laptops,Xiaomi,95599,3.7,470
+PROD1906,Philips Pressure Cooker 2.0,Home & Kitchen,COOKWARE,Philips,1259,3.1,514
+PROD2243,Biotique Hair Oil Plus,Beauty & Personal Care,Haircare,Biotique,889,3.9,199
+PROD2192,Wow Sunscreen SPF 50 X,Beauty & Personal Care,Skincare,Wow,219,5.0,561
+PROD1787,Wipro Bookshelf Lite,Home & Kitchen,Furniture,Wipro,4589,3.9,95
+PROD1907,Nilkamal Office Chair Max,Home & Kitchen,Furniture,Nilkamal,9569,3.9,337
+PROD2112,Penguin Productivity Book Max,Books,Self-Help,Penguin,339,4.4,36
+PROD1577,Puma Saree Plus,Fashion,Women's Clothing,Puma,799,3.5,212
+PROD1191, OnePlus Laptop 15 inch Lite ,Electronics,Laptops,OnePlus,54209,,38
+PROD1618, W Western Dress Max ,Fashion,Women's Clothing,W,1029,4.6,80
+PROD2430,Funskool Building Blocks 2.0,Toys & Games,Toys,Funskool,719,3.6,489
+PROD2460,Tata Dry Fruits Pack 2.0,Grocery,Snacks & Beverages,Tata,729,3.6,328
+PROD1932,Pigeon Office Chair 2.0,Home & Kitchen,Furniture,,17239,5.0,157
+PROD1664,Bata Formal Shirt Pro,Fashion,Men's Clothing,Bata,Rs. 609,3.4,197
+PROD1690,Roadster Sneakers Essential,Fashion,Footwear,Roadster,1749,4.5,324
+PROD2098,McGraw Hill Medical Reference 2.0,Books,Academic,McGraw Hill,709,3.9,587
+PROD2347,Boldfit Dumbbell Set Essential,Sports & Fitness,Gym Equipment,Boldfit,11529,,22
+PROD1015,Apple Smartwatch Plus,Electronics,Smartwatches,Apple,19229,4.7,498
+PROD1502,Bata Cotton T-Shirt Plus,Fashion,Men's Clothing,,₹999,3.3,137
+PROD1963,Milton Office Chair Plus,Home & Kitchen,Furniture,Milton,2069,4.2,344
+PROD2000,Pigeon Lunch Box Set Plus,Home & Kitchen,Cookware,Pigeon,699,4.2,585
+PROD2417,Mattel Board Game Plus,Toys & Games,Toys,Mattel,Rs. 379,4.5,74
+PROD2200,Nivea Face Serum Lite,Beauty & Personal Care,Skincare,Nivea,₹919,4.1,588
+PROD2245,Dove Hair Oil Pro, Beauty & Personal Care ,Haircare,Dove,,4.3,373
+PROD1157,Samsung Fitness Band Pro,Electronics,Smartwatches,Samsung,4699,4.3,466
+PROD1833,Pigeon Pressure Cooker Pro,Home & Kitchen,Cookware,Pigeon,3139,3.6,185
+PROD1353,Levis Kurti X,fashion,Women's Clothing,Levis,599,4.1,338
+PROD1120,Noise Smartwatch Classic,Electronics,Smartwatches,Noise,6129,3.8,359
+PROD1877,Wipro Induction Cooktop Lite,Home & Kitchen,Appliances,Wipro,2289,4.4,471
+PROD2217,Lakme Face Serum Classic,Beauty & Personal Care,Skincare,Lakme,889,3.8,533
+PROD2410,Lego Board Game Classic,Toys & Games,Toys,Lego,1179,4.5,541
+PROD1468,Adidas Kurti 2.0,FASHION,Women's Clothing,Adidas,1809,4.3,22
+PROD2283,Nivea Moisturizer Lite,Beauty & Personal Care,Skincare,Nivea,309,4.2,435
+PROD1225,Samsung Over-Ear Headphones 2.0,Electronics,Headphones,Samsung,6559,4.2,534
+PROD1322,HP Over-Ear Headphones X,Electronics,Headphones,,2829,3.6,259
+PROD1717,Bata Saree Pro,Fashion,Women's Clothing,Bata,Rs. 749,4.2,122
+PROD1362,Levis Sandals Max,Fashion,footwear,Levis,"₹2,109",4.2,404
+PROD2234,Dove Eau de Parfum Pro,Beauty & Personal Care,Fragrances,Dove,839,4.2,594
+PROD2016,Milton Pressure Cooker Max,Home & Kitchen,Cookware,Milton,529,3.4,370
+PROD1375,Biba Kurti Classic,Fashion,Women's Clothing,Biba,989,4.6,565
+PROD1404,Allen Solly Cotton T-Shirt Essential,Fashion,Men's Clothing,Allen Solly,1809,4.0,522
+PROD1172,Lenovo Gaming Laptop 2.0,electronics,Laptops,Lenovo,88929,4.1,356
+PROD1612,Levis Hoodie Max,Fashion,Men's Clothing,Levis,₹859,3.8,472
+PROD1758,Milton Office Chair Classic,home & kitchen,Furniture,Milton,14909,4.8,305
+PROD1630,Nike Sneakers X,Fashion,Footwear,Nike,1709,4.2,237
+PROD2136,Penguin Bestselling Novel Classic,books,Fiction,Penguin,709,3.5,65
+PROD1247,Lenovo Smartphone 4G Max, Electronics ,Mobiles,,40329,3.9,114
+PROD1832,Wipro Mixer Grinder Max,HOME & KITCHEN,Appliances,,4479,4.4,37
+PROD1949,Wipro Lunch Box Set Essential,Home & Kitchen,Cookware,Wipro,409,2.3,574
+PROD1640,Levis Palazzo Set Classic,Fashion,Women's Clothing,Levis,3029,3.9,385
+PROD2383,Boldfit Cycling Helmet Essential,SPORTS & FITNESS,Outdoor,Boldfit,3879,3.6,74
+PROD1226,OnePlus Smartphone 5G Plus,Electronics,Mobiles,OnePlus,"₹22,829",3.5,558
+PROD1155,Lenovo Ultrabook Essential,Electronics,Laptops,Lenovo,34299,3.5,250
+PROD1231,Xiaomi Smartphone 4G Lite, Electronics ,MOBILES,Xiaomi,69419,,409
+PROD1759,Nilkamal Pressure Cooker Max,Home & Kitchen,COOKWARE,Nilkamal,2499,,391
+PROD2159,Wow Face Serum Essential,Beauty & Personal Care,Skincare,Wow,809,3.9,537
+PROD1791,Nilkamal Lunch Box Set 2.0,Home & Kitchen,Cookware,Nilkamal,2599,3.9,312
+PROD1521,Biba Hoodie Max,Fashion,Men's Clothing,Biba,1119,4.2,139
+PROD1873,Philips Air Fryer 2.0, Home & Kitchen ,Appliances,Philips,1289,4.6,129
+PROD1409,Allen Solly Formal Shoes Lite,Fashion,Footwear,Allen Solly,4039,3.9,518
+PROD2096,McGraw Hill Competitive Exam Prep X,Books,Academic,McGraw Hill,259,3.8,420
+PROD1566,Levis Hoodie 2.0,Fashion,Men's Clothing,Levis,1199,4.2,42
+PROD1753,Havells Non-Stick Pan Set Essential,Home & Kitchen,Cookware,Havells,"₹2,219",4.4,575
+PROD1288,Noise Smartphone 4G Max,Electronics,Mobiles,Noise,8859,4.8,184
+PROD2455,Lego Building Blocks Essential,Toys & Games, Toys ,Lego,239,4.2,68
+PROD2021,Wipro Non-Stick Pan Set Lite,Home & Kitchen,Cookware,Wipro,579,4.5,195
+PROD2019,Prestige Study Table Essential,Home & Kitchen,Furniture,Prestige,"₹13,409",4.1,421
+PROD1019,Samsung Fitness Band Plus,Electronics,smartwatches,Samsung,6869,5.0,349
+PROD2092,Penguin Engineering Guide X,BOOKS,Academic,Penguin,709,4.5,407
+PROD1332,Puma Sandals Pro,FASHION,Footwear,,1459,3.0,423
+PROD1413,W Running Shoes 2.0,Fashion,Footwear,W,1119,4.3,471
+PROD1044,Noise Smartwatch Max,Electronics,Smartwatches,Noise,3339,4.5,63
+PROD1737, Nike Running Shoes Lite ,Fashion,Footwear,Nike,1419,4.9,486
+PROD1435,Levis Running Shoes Lite,Fashion, Footwear ,Levis,849,4.3,156
+PROD1685,W Running Shoes Essential,Fashion,Footwear,W,1699,4.1,144
+PROD1354,Allen Solly Formal Shoes X,Fashion,Footwear,Allen Solly,709,3.5,425
+PROD2208,Wow Face Serum Plus,Beauty & Personal Care,Skincare,Wow,269,4.6,30
+PROD1684,Bata Formal Shoes Pro, Fashion ,Footwear,Bata,1909,4.3,577
+PROD1427,Biba Formal Shirt Max,Fashion,Men's Clothing,Biba,0,4.6,91
+PROD1372,Biba Sandals Max,Fashion,Footwear,Biba,5289,4.9,303
+PROD2362,Cosco Yoga Mat Classic, Sports & Fitness ,gym equipment,Cosco,1439,3.5,127
+PROD1869,Prestige Office Chair Classic,Home & Kitchen,Furniture,Prestige,16089,3.1,203
+PROD1437,Roadster Saree Classic,Fashion,Women's Clothing,Roadster,3869,5.0,361
+PROD1239,Samsung Fitness Band Plus,Electronics,Smartwatches,Samsung,14669,3.8,111
+PROD1727,Adidas Western Dress Essential,Fashion,Women's Clothing,Adidas,919,4.3,452
+PROD2215,Mamaearth Face Serum Pro,Beauty & Personal Care,Skincare,Mamaearth,₹249,4.3,509
+PROD1033,OnePlus Wireless Earbuds 2.0,electronics, Headphones ,OnePlus,3819,5.0,310
+PROD2289,Wow Deodorant Pack 2.0,Beauty & Personal Care, Fragrances ,Wow,1469,4.9,570
+PROD2313,Decathlon Cycling Helmet X,Sports & Fitness,Outdoor,Decathlon,1959,,513
+PROD1292,OnePlus Laptop 15 inch 2.0,Electronics,Laptops,OnePlus,,3.7,349
+PROD1124,OnePlus Smartphone 5G X,Electronics,Mobiles,OnePlus,11309,4.2,552
+PROD1290,Xiaomi Feature Phone X,electronics,Mobiles,Xiaomi,39999,4.5,79
+PROD1345,W Running Shoes 2.0, Fashion ,Footwear,W,1989,4.2,39
+PROD2087,HarperCollins Competitive Exam Prep Essential,Books,Academic,HarperCollins,529,4.2,297
+PROD1834,Prestige Office Chair Plus,home & kitchen,Furniture,Prestige,6329,4.2,35
+PROD1782,Philips Bookshelf X,Home & Kitchen,Furniture,Philips,5309,3.7,157
+PROD1819,Havells Mixer Grinder Lite,Home & Kitchen,Appliances,Havells,2939,3.1,359
+PROD1164,OnePlus Smartwatch Classic,Electronics,smartwatches,OnePlus,13059,4.8,344
+PROD1433,Levis Western Dress Essential, Fashion ,WOMEN'S CLOTHING,Levis,1999,4.1,189
+PROD1411,Bata Sneakers Plus,Fashion,Footwear,Bata,1389,4.0,94
+PROD1399,Roadster Running Shoes Classic,fashion,Footwear,,4869,4.3,440
+PROD1958,Philips Study Table X,home & kitchen,Furniture,Philips,3339,4.7,362
+PROD1770,Wipro Air Fryer Classic,Home & Kitchen,Appliances,Wipro,"₹1,509",3.8,414
+PROD1425,W Kurti Max,Fashion,Women's Clothing,W,3609,4.2,46
+PROD1020,Apple Smartphone 5G 2.0,Electronics,Mobiles,Apple,15539,3.6,540
+PROD1694,Biba Sneakers Classic, Fashion ,Footwear,Biba,4119,,515
+PROD2162,Dove Shampoo Max,Beauty & Personal Care,Haircare,Dove,449,4.0,598
+PROD1050,Noise Smartphone 4G Max,Electronics,MOBILES,Noise,39829,4.0,594
+PROD1408,Levis Sneakers Classic, Fashion , Footwear ,Levis,709,4.2,173
+PROD1356,Adidas Palazzo Set Lite,fashion,Women's Clothing,Adidas,739,3.7,151
+PROD1965,Nilkamal Bookshelf Essential,Home & Kitchen,Furniture,Nilkamal,6619,,530
+PROD1049,Xiaomi Fitness Band Classic,Electronics,Smartwatches,Xiaomi,12169,4.0,425
+PROD1744,W Sneakers 2.0,Fashion,Footwear,W,3039,3.8,298
+PROD2331,Decathlon Cycling Helmet Max,Sports & Fitness, Outdoor ,Decathlon,579,4.5,346
+PROD2349,Nivia Dumbbell Set Max,Sports & Fitness,Gym Equipment,Nivia,2269,3.4,509
+PROD2148,Arihant Classic Edition Classic,Books,Fiction,Arihant,209,4.2,485
+PROD1631,Puma Western Dress Classic,Fashion,Women's Clothing,Puma,509,3.7,562
+PROD1732,Levis Palazzo Set Pro,Fashion,WOMEN'S CLOTHING,Levis,709,4.2,253
+PROD1467,Allen Solly Cotton T-Shirt Lite,Fashion,Men's Clothing,Allen Solly,1809,4.6,580
+PROD1066,Realme Feature Phone 2.0,Electronics,Mobiles,Realme,8329,3.0,417
+PROD1150,OnePlus Over-Ear Headphones Classic,Electronics,Headphones,OnePlus,2259,4.4,583
+PROD1888,Pigeon Induction Cooktop Plus,Home & Kitchen,Appliances,Pigeon,3209,4.2,31
+PROD1918, Pigeon Pressure Cooker Max ,Home & Kitchen,Cookware,Pigeon,419,3.8,442
+PROD2293,Nivea Hair Oil Lite,Beauty & Personal Care,Haircare,Nivea,179,4.8,365
+PROD2330,Nivia Yoga Mat Classic,Sports & Fitness,Gym Equipment,Nivia,1649,5.0,254
+PROD2130,Arihant Thriller Paperback Lite,Books,Fiction,Arihant,699,3.5,175
+PROD2336,SG Resistance Bands Pro,sports & fitness,Gym Equipment,SG,7099,,333
+PROD2106,McGraw Hill Thriller Paperback X,Books, FICTION ,McGraw Hill,249,3.9,188
+PROD1827,Havells Non-Stick Pan Set X,Home & Kitchen,Cookware,Havells,759,3.9,557
+PROD1330,Puma Western Dress Pro,Fashion,Women's Clothing,Puma,1289,3.5,255
+PROD1837,Pigeon Air Fryer Lite,Home & Kitchen,Appliances,Pigeon,2349,4.2,197
+PROD2483,Nescafe Instant Coffee Lite,grocery,Snacks & Beverages,Nescafe,179,3.8,534
+PROD1035,Lenovo Wireless Earbuds 2.0,Electronics,Headphones,Lenovo,4859,3.7,457
+PROD2393,Cosco Badminton Racket 2.0,Sports & Fitness,Outdoor,Cosco,8099,4.8,463
+PROD1445,Bata Formal Shoes Classic,Fashion,Footwear,Bata,5139,4.0,411
+PROD1355,Nike Slim Fit Jeans 2.0,Fashion,Men's Clothing,Nike,3419,5.0,273
+PROD1722,Bata Formal Shirt Max, Fashion , Men's Clothing ,Bata,Rs. 649,4.8,187
+PROD1341,Adidas Palazzo Set Max,Fashion, Women's Clothing ,Adidas,4079,3.4,335
+PROD1757,Nilkamal Electric Kettle X, Home & Kitchen ,Appliances,Nilkamal,2239,3.9,453
+PROD1660,Adidas Hoodie Classic,Fashion,Men's Clothing,Adidas,669,2.7,508
+PROD1998,Pigeon Electric Kettle 2.0,Home & Kitchen,Appliances,Pigeon,1659,4.3,340
+PROD1964,Prestige Bookshelf X,Home & Kitchen,Furniture,Prestige,5259,4.7,357
+PROD1596,Allen Solly Hoodie Lite,Fashion,Men's Clothing,Allen Solly,"₹1,869",3.8,280
+PROD1497,Nike Sneakers 2.0,Fashion,Footwear,Nike,3549,4.9,338
+PROD1703,Levis Saree Pro,Fashion,Women's Clothing,Levis,1119,,39
+PROD2020,Milton Study Table Max,Home & Kitchen,FURNITURE,,7259,3.8,303
+PROD1238,Lenovo Neckband Pro,Electronics,Headphones,Lenovo,8409,4.3,79
+PROD2151, Dove Face Serum Lite ,Beauty & Personal Care,Skincare,Dove,309,4.5,202
+PROD1678,Biba Western Dress Pro,Fashion, women's clothing ,Biba,669,3.1,456
+PROD2309,Nivia Resistance Bands Pro,Sports & Fitness,Gym Equipment,Nivia,429,,276
+PROD1237,Noise Over-Ear Headphones Max,Electronics,Headphones,Noise,1699,4.3,417
+PROD1473,Levis Kurti Plus,Fashion,Women's Clothing,Levis,1589,3.5,332
+PROD1952,Havells Bookshelf Pro,Home & Kitchen,Furniture,Havells,3849,4.4,-425
+PROD2350,SG Cycling Helmet Classic, Sports & Fitness ,Outdoor,SG,5959,,354
+PROD1038,OnePlus Smartphone 5G Pro,Electronics,Mobiles,,17169,3.6,48
+PROD1104,HP Smartphone 5G Pro,Electronics,Mobiles,HP,15079,5.0,511
+PROD1916,Milton Induction Cooktop X,home & kitchen,Appliances,Milton,3299,4.6,153
+PROD1228,Lenovo Ultrabook Essential,Electronics,Laptops,Lenovo,92259,4.4,45
+PROD1730,Puma Sneakers Lite,Fashion,Footwear,Puma,619,3.9,38
+PROD1492,Bata Slim Fit Jeans Lite,Fashion,Men's Clothing,Bata,3139,,223
+PROD2328,Cosco Badminton Racket Plus,Sports & Fitness,Outdoor,Cosco,"₹6,769",4.2,270
+PROD1598,Bata Slim Fit Jeans Essential,Fashion,Men's Clothing,Bata,1219,3.7,463
+PROD1436,Puma Cotton T-Shirt Pro,FASHION, Men's Clothing ,Puma,639,4.7,229
+PROD2448,Mattel Board Game Classic,Toys & Games,Toys,Mattel,519,3.9,418
+PROD1270,boAt Laptop 15 inch Max,Electronics,Laptops,boAt,59419,4.3,14
+PROD1420,Nike Formal Shirt Lite,Fashion,Men's Clothing,Nike,3119,3.9,177
+PROD2011,Philips Air Fryer X,Home & Kitchen,Appliances,Philips,1739,4.2,182
+PROD2023,Milton Induction Cooktop Plus,Home & Kitchen,Appliances,Milton,6669,3.9,596
+PROD1665,Roadster Running Shoes X,Fashion,Footwear,Roadster,669,3.7,200
+PROD1831,Nilkamal Electric Kettle Pro,Home & Kitchen,appliances,Nilkamal,1729,4.3,253
+PROD2386,Boldfit Cycling Helmet Lite,Sports & Fitness,Outdoor,Boldfit,1769,3.8,474
+PROD1661,Bata Formal Shirt 2.0,Fashion,Men's Clothing,Bata,2959,3.8,250
+PROD1576,Roadster Sandals X,Fashion,Footwear,Roadster,2069,3.4,247
+PROD1584,Nike Slim Fit Jeans Pro,Fashion,Men's Clothing,Nike,399,3.4,258
+PROD2356,Cosco Cricket Bat Max,Sports & Fitness,Outdoor,Cosco,379,4.3,458
+PROD1508,Adidas Saree X,Fashion,Women's Clothing,Adidas,709,5.0,583
+PROD1636,W Palazzo Set X,Fashion,Women's Clothing,W,2049,3.7,580
+PROD1676,Roadster Kurti 2.0,Fashion,Women's Clothing,Roadster,3509,3.7,317
+PROD1127, Realme Smartwatch Essential , Electronics ,Smartwatches,Realme,10539,4.4,84
+PROD1761,Pigeon Lunch Box Set Essential,Home & Kitchen,Cookware,Pigeon,1609,4.4,221
+PROD1002,Apple Smartwatch X,Electronics,SMARTWATCHES,Apple,20089,4.0,396
+PROD1489,Adidas Sandals Pro,Fashion,Footwear,Adidas,5109,4.4,587
+PROD1279,Noise Smartwatch 2.0,electronics,Smartwatches,Noise,2069,3.5,399
+PROD2486,Amul Instant Coffee X,Grocery,Snacks & Beverages,Amul,₹489,4.3,254
+PROD2183,Nivea Hair Oil Plus,Beauty & Personal Care,Haircare,Nivea,Rs. 389,4.4,348
+PROD1206,Lenovo Smartphone 4G Essential,Electronics,Mobiles,Lenovo,22889,4.0,228
+PROD1611,Roadster Running Shoes Pro,Fashion,Footwear,Roadster,859,3.9,34
+PROD1836,Havells Pressure Cooker Lite,Home & Kitchen,Cookware,Havells,1489,4.8,102
+PROD1570,Adidas Saree 2.0,Fashion,Women's Clothing,Adidas,599,3.9,498
+PROD2171,Lakme Sunscreen SPF 50 2.0,Beauty & Personal Care,Skincare,Lakme,1549,4.3,406
+PROD2441,Mattel Building Blocks Plus,Toys & Games,Toys,Mattel,559,3.3,324
+PROD1524,Bata Formal Shoes 2.0,Fashion,Footwear,Bata,4929,4.3,186
+PROD1424,Allen Solly Sandals Classic,Fashion,Footwear,Allen Solly,₹969,3.9,130
+PROD1588,Allen Solly Formal Shirt Essential,Fashion,Men's Clothing,Allen Solly,3299,4.2,69
+PROD1738,Adidas Formal Shirt 2.0,Fashion,Men's Clothing,Adidas,1239,3.3,33
+PROD2290,Wow Face Serum Essential,Beauty & Personal Care,Skincare,Wow,1979,4.6,374
+PROD1319,Samsung Feature Phone 2.0,Electronics,Mobiles,Samsung,20379,4.0,90
+PROD1666,Biba Sandals Plus,Fashion,Footwear,Biba,₹839,3.2,122
+PROD1161,Noise Laptop 15 inch Pro,Electronics,Laptops,Noise,120679,4.4,453
+PROD1512,Nike Hoodie Lite,Fashion,Men's Clothing,Nike,1159,4.2,413
+PROD1483,Adidas Formal Shirt Pro,Fashion,Men's Clothing,Adidas,1109,4.1,176
+PROD1655,Nike Western Dress Pro,Fashion,Women's Clothing,Nike,2209,3.9,567
+PROD2223,Nivea Face Serum Classic,Beauty & Personal Care,Skincare,Nivea,1469,4.0,126
+PROD2089,McGraw Hill Engineering Guide 2.0,Books,Academic,McGraw Hill,539,3.8,539
+PROD1476,Bata Running Shoes Plus,Fashion,Footwear,Bata,2589,4.3,574
+PROD1575,Adidas Formal Shirt Classic,Fashion,Men's Clothing,Adidas,3189,3.7,329
+PROD1455,Roadster Western Dress 2.0,FASHION,Women's Clothing,Roadster,"₹2,079",4.8,79
+PROD1021,Samsung Smartphone 4G X, Electronics ,Mobiles,Samsung,16519,4.0,56
+PROD1659,Puma Palazzo Set Pro,Fashion, Women's Clothing ,,559,4.1,570
+PROD2036,Rupa Finance Book X,Books,Self-Help,Rupa,309,3.1,114
+PROD1166,Xiaomi Smartwatch Max,Electronics,Smartwatches,Xiaomi,2769,3.7,468
+PROD1115,Noise Smartphone 5G Essential,Electronics,Mobiles,Noise,9139,4.5,24
+PROD1677,Nike Formal Shoes Classic,Fashion,Footwear,Nike,2909,4.1,160
+PROD1852,Philips Lunch Box Set Plus,Home & Kitchen,Cookware,Philips,829,3.7,259
+PROD1999,Milton Lunch Box Set 2.0,Home & Kitchen,Cookware,Milton,2329,4.3,325
+PROD1768,Pigeon Electric Kettle Plus,Home & Kitchen,Appliances,Pigeon,6629,3.4,60
+PROD2042,HarperCollins Engineering Guide Classic,Books,Academic,HarperCollins,1189,4.4,191
+PROD2317,SG Resistance Bands X,Sports & Fitness,Gym Equipment,SG,1169,4.3,383
+PROD1300,Samsung Smartphone 4G 2.0,Electronics,Mobiles,Samsung,21059,,158
+PROD1099,Xiaomi Feature Phone Pro,Electronics,Mobiles,Xiaomi,12869,4.9,62
+PROD1430,Adidas Running Shoes Plus,Fashion,Footwear,Adidas,3339,4.0,252
+PROD1128,HP Smartphone 4G Lite,Electronics,Mobiles,HP,40729,3.4,59
+PROD2229,Biotique Eau de Parfum Lite,Beauty & Personal Care,Fragrances,Biotique,319,4.5,258
+PROD1152,Sony Smartphone 4G Plus,Electronics,MOBILES,Sony,21089,3.6,387
+PROD1251,OnePlus Smartphone 4G Lite,Electronics,Mobiles,OnePlus,8659,4.3,318
+PROD2421,Lego Remote Control Car 2.0,Toys & Games,Toys,Lego,2889,4.0,531
+PROD2379, Boldfit Yoga Mat Pro ,Sports & Fitness,Gym Equipment,Boldfit,₹769,4.4,194
+PROD1923,Milton Study Table Pro,Home & Kitchen,Furniture,,"₹2,849",4.5,280
+PROD2172, Nivea Hair Dryer Max ,Beauty & Personal Care,Haircare,Nivea,1259,4.2,122
+PROD1885,Prestige Mixer Grinder Max,Home & Kitchen,Appliances,Prestige,3139,4.1,251
+PROD1368, Adidas Sneakers 2.0 ,Fashion, Footwear ,Adidas,"₹4,849",3.8,495
+PROD1135,OnePlus Laptop 15 inch Pro,Electronics,Laptops,OnePlus,Rs. 55619,4.4,227
+PROD2005,Philips Electric Kettle Classic,Home & Kitchen,Appliances,Philips,959,3.4,299
+PROD1369,Puma Saree X,FASHION,Women's Clothing,Puma,719,4.1,475
+PROD1154,Realme Wireless Earbuds Pro,Electronics,Headphones,Realme,2889,3.7,399
+PROD2297,Nivea Hair Dryer 2.0,beauty & personal care,Haircare,,Rs. 329,3.8,542
+PROD1798,Havells Induction Cooktop Essential,Home & Kitchen,Appliances,Havells,4549,4.2,85
+PROD1305,OnePlus Laptop 15 inch Classic,Electronics,Laptops,OnePlus,58849,3.8,269
+PROD2202,Mamaearth Hair Oil Lite,beauty & personal care,Haircare,Mamaearth,239,3.6,178
+PROD2071,Penguin Engineering Guide Pro,Books,Academic,Penguin,419,3.0,148
+PROD1419,Bata Formal Shoes X,Fashion,Footwear,Bata,1589,5.0,369
+PROD1805, Wipro Office Chair Essential ,Home & Kitchen,Furniture,Wipro,7369,3.7,436
+PROD1571,Puma Formal Shoes X,Fashion,Footwear,Puma,2919,4.4,591
+PROD1246,OnePlus Laptop 15 inch Max,Electronics,Laptops,OnePlus,85439,3.8,93
+PROD1997,Havells Pressure Cooker Classic,Home & Kitchen,Cookware,Havells,489,3.3,551
+PROD1313,Lenovo Fitness Band 2.0,Electronics,Smartwatches,,23229,3.7,517
+PROD2131,Arihant Medical Reference Pro,Books,Academic,Arihant,549,4.1,569
+PROD2181,Dove Moisturizer Classic,Beauty & Personal Care,Skincare,Dove,₹269,4.2,138
+PROD1658,Puma Hoodie 2.0,Fashion,Men's Clothing,Puma,529,3.8,260
+PROD1672,Allen Solly Cotton T-Shirt Pro,Fashion,Men's Clothing,Allen Solly,1679,4.2,215
+PROD2235,Nivea Moisturizer Lite,Beauty & Personal Care,Skincare,Nivea,279,4.5,332
+PROD1667,Bata Cotton T-Shirt Plus,Fashion,men's clothing,Bata,3059,4.1,79
+PROD1725,Puma Running Shoes Classic,Fashion,Footwear,Puma,4259,4.4,53
+PROD1786,Nilkamal Induction Cooktop Lite,Home & Kitchen,Appliances,Nilkamal,5329,4.7,397
+PROD1141,OnePlus Smartphone 5G Essential,Electronics,Mobiles,OnePlus,15249,4.0,476
+PROD2091,Rupa Competitive Exam Prep Lite,BOOKS,Academic,Rupa,249,4.8,459
+PROD1868,Havells Non-Stick Pan Set 2.0,Home & Kitchen,Cookware,Havells,3109,4.5,153
+PROD1953,Pigeon Lunch Box Set X,Home & Kitchen,Cookware,Pigeon,769,4.6,263
+PROD1637,Nike Formal Shoes X,Fashion,Footwear,Nike,3449,4.6,151
+PROD1112,boAt Fitness Band Max,Electronics,Smartwatches,boAt,14459,3.5,34
+PROD2391,Nivia Yoga Mat Max,Sports & Fitness,Gym Equipment,Nivia,"₹3,749",4.3,46
+PROD1893,Havells Non-Stick Pan Set 2.0,Home & Kitchen,Cookware,Havells,3199,4.4,402
+PROD1545,Levis Slim Fit Jeans Plus,Fashion,Men's Clothing,Levis,3339,4.1,490
+PROD2170,Mamaearth Sunscreen SPF 50 Classic,BEAUTY & PERSONAL CARE,Skincare,Mamaearth,1009,3.5,57
+PROD2308,SG Yoga Mat Lite,Sports & Fitness,Gym Equipment,SG,6269,4.0,44
+PROD2322,Nivia Cycling Helmet Pro, Sports & Fitness ,Outdoor,Nivia,1359,4.5,311
+PROD2030,Rupa Productivity Book Essential,Books,Self-Help,Rupa,199,4.1,371
+PROD2378,Decathlon Badminton Racket Lite,Sports & Fitness,Outdoor,Decathlon,2159,3.7,24
+PROD1059,OnePlus Smartphone 5G Max,Electronics,Mobiles,OnePlus,0,4.1,470
+PROD1334,Puma Kurti Classic,Fashion,Women's Clothing,Puma,4949,3.4,308
+PROD1328,Noise Ultrabook Classic,Electronics, Laptops ,Noise,47509,3.5,112
+PROD2144,Arihant Thriller Paperback Max,Books,FICTION,Arihant,289,5.0,455
+PROD1069,OnePlus Wireless Earbuds Essential,Electronics,Headphones,OnePlus,2249,4.6,562
+PROD2048, Penguin Classic Edition Classic ,Books,Fiction,Penguin,159,4.5,410
+PROD1966,Prestige Bookshelf Lite,Home & Kitchen,Furniture,Prestige,11909,3.4,595
+PROD1735,Puma Running Shoes X,Fashion,Footwear,Puma,1759,4.8,462
+PROD1352, Roadster Cotton T-Shirt Lite ,Fashion,Men's Clothing,Roadster,769,4.6,582
+PROD1221,Realme Fitness Band Classic,Electronics,Smartwatches,Realme,"₹12,629",,217
+PROD1118,Apple Over-Ear Headphones Essential,Electronics,headphones,Apple,Rs. 7969,4.3,361
+PROD2182,Lakme Hair Dryer Plus,Beauty & Personal Care,Haircare,Lakme,259,3.8,420
+PROD1615,Puma Formal Shoes Max,Fashion,Footwear,Puma,2719,3.6,388
+PROD1634,Roadster Sneakers Classic,Fashion,Footwear,Roadster,4679,3.3,160
+PROD1004,Sony Over-Ear Headphones Plus,Electronics,Headphones,,789,5.0,40
+PROD1170,Sony Smartphone 4G Plus,Electronics,Mobiles,Sony,8459,4.0,421
+PROD2190,Mamaearth Sunscreen SPF 50 Classic,Beauty & Personal Care,Skincare,Mamaearth,1619,4.2,108
+PROD1814,Wipro Lunch Box Set Essential,Home & Kitchen,cookware,Wipro,1939,4.1,342
+PROD2284,Nivea Hair Dryer Max,Beauty & Personal Care,Haircare,Nivea,229,4.5,593
+PROD1045,Noise Over-Ear Headphones 2.0,Electronics,Headphones,Noise,3479,4.5,139
+PROD1739,Puma Running Shoes Lite, Fashion ,Footwear,Puma,1509,4.0,309
+PROD1708,Biba Saree Pro,Fashion,Women's Clothing,Biba,579,4.2,358
+PROD1349,Bata Formal Shoes Plus,Fashion,Footwear,Bata,Rs. 4859,4.2,463
+PROD2143,Rupa Competitive Exam Prep Essential,Books,Academic,Rupa,549,4.3,182
+PROD1252,Noise Ultrabook Classic,Electronics,laptops,Noise,"₹44,709",4.1,189
+PROD1008, Samsung Laptop 15 inch Essential ,Electronics,Laptops,Samsung,120189,3.8,538
+PROD2123,HarperCollins Finance Book Classic,Books,Self-Help,HarperCollins,589,,300
+PROD1674, W Running Shoes Plus ,Fashion,Footwear,W,1729,3.8,258
+PROD1765,Milton Non-Stick Pan Set Essential,Home & Kitchen,Cookware,Milton,2189,3.6,314
+PROD1218,Xiaomi Wireless Earbuds X,Electronics,Headphones,Xiaomi,"₹9,589",3.9,185
+PROD1245,HP Wireless Earbuds Plus,Electronics,Headphones,HP,7309,3.8,345
+PROD1902, Milton Non-Stick Pan Set Lite ,home & kitchen,Cookware,Milton,2199,4.6,203
+PROD1874,Prestige Induction Cooktop 2.0,Home & Kitchen,Appliances,Prestige,1529,4.3,469
+PROD1244,Sony Smartphone 4G Essential,Electronics,Mobiles,Sony,16119,3.7,295
+PROD2445,Funskool Remote Control Car Plus,Toys & Games,Toys,Funskool,2319,3.6,163
+PROD1211,Samsung Feature Phone 2.0,Electronics,mobiles,Samsung,55249,3.8,498
+PROD2124,HarperCollins Medical Reference Max,Books,Academic,HarperCollins,779,4.3,25
+PROD1301,HP Smartphone 5G Lite,Electronics,Mobiles,HP,57439,3.8,534
+PROD1511,Roadster Running Shoes Pro,Fashion,Footwear,Roadster,"₹3,559",3.9,426
+PROD2307,Decathlon Yoga Mat Essential,Sports & Fitness,Gym Equipment,Decathlon,1949,4.1,307
+PROD1962,Prestige Air Fryer Plus,Home & Kitchen,Appliances,Prestige,1069,3.5,102
+PROD1299,HP Smartphone 5G Plus,Electronics,Mobiles,HP,15549,3.9,443
+PROD1943,Philips Air Fryer 2.0,Home & Kitchen,Appliances,Philips,1309,4.5,147
+PROD1224,Samsung Smartphone 5G Plus,Electronics,Mobiles,Samsung,15159,4.7,295
+PROD1146,Xiaomi Feature Phone X,Electronics,Mobiles,Xiaomi,"₹8,449",4.9,386
+PROD1538,W Saree Max,Fashion,Women's Clothing,W,4579,4.5,510
+PROD2451,Hot Wheels Remote Control Car Lite,toys & games, Toys ,Hot Wheels,809,4.0,505
+PROD2057,Penguin Finance Book Essential,Books,Self-Help,Penguin,239,3.2,402
+PROD1616,Levis Slim Fit Jeans 2.0,Fashion,Men's Clothing,Levis,509,4.0,98
+PROD1275,Xiaomi Smartphone 4G Pro,Electronics,Mobiles,Xiaomi,51589,4.6,9
+PROD2168,Lakme Deodorant Pack Pro,Beauty & Personal Care,Fragrances,Lakme,859,,39
+PROD2141,McGraw Hill Thriller Paperback 2.0,Books,Fiction,McGraw Hill,Rs. 439,4.1,236
+PROD1312,Xiaomi Fitness Band Lite,Electronics,Smartwatches,Xiaomi,2229,5.0,248
+PROD1050,Noise Smartphone 4G Max,Electronics,MOBILES,Noise,39829,4.0,594
+PROD2442,Funskool Building Blocks X, Toys & Games ,Toys,Funskool,769,3.5,197
+PROD1285,Samsung Ultrabook Lite,Electronics,Laptops,Samsung,41749,3.8,319
+PROD1897,Wipro Pressure Cooker Pro,Home & Kitchen, Cookware ,Wipro,549,4.3,78
+PROD1650,Bata Cotton T-Shirt Classic,Fashion,men's clothing,Bata,869,3.8,401
+PROD1728,Adidas Cotton T-Shirt Lite,Fashion,Men's Clothing,Adidas,1899,4.6,350
+PROD2401,Hot Wheels Board Game Classic,Toys & Games,Toys,Hot Wheels,489,3.8,374
+PROD1981,Wipro Lunch Box Set X,Home & Kitchen,Cookware,Wipro,429,3.7,4
+PROD1859,Nilkamal Air Fryer Pro,Home & Kitchen,Appliances,,1789,4.1,128
+PROD1402,Puma Cotton T-Shirt Max,Fashion,Men's Clothing,Puma,509,4.4,168
+PROD1441,Roadster Kurti Essential,Fashion,Women's Clothing,Roadster,"₹1,459",4.3,-31
+PROD1921,Prestige Air Fryer Max, Home & Kitchen ,Appliances,Prestige,1949,4.0,21
+PROD1179,Sony Laptop 15 inch 2.0,Electronics, Laptops ,Sony,81809,4.2,107
+PROD2291,Wow Moisturizer Lite,Beauty & Personal Care,Skincare,Wow,239,4.1,465
+PROD2027,Milton Induction Cooktop Essential,Home & Kitchen,Appliances,Milton,0,3.7,511
+PROD1982,Prestige Bookshelf Essential,Home & Kitchen,Furniture,Prestige,Rs. 2899,4.0,65
+PROD1046,OnePlus Smartwatch Pro,Electronics,Smartwatches,OnePlus,1999,4.5,187
+PROD1866,Prestige Office Chair Essential,Home & Kitchen,Furniture,Prestige,7739,3.3,351
+PROD2114,McGraw Hill Thriller Paperback 2.0,Books, Fiction ,McGraw Hill,339,5.0,550
+PROD1457,Biba Sandals Max,Fashion,Footwear,Biba,719,3.7,146
+PROD1867,Milton Bookshelf X,Home & Kitchen,Furniture,Milton,,4.1,217
+PROD1417,Puma Western Dress Plus,Fashion,Women's Clothing,Puma,2809,3.9,314
+PROD1846,Havells Non-Stick Pan Set Max,Home & Kitchen,Cookware,Havells,1879,4.8,255
+PROD1440,Biba Kurti Lite,Fashion,Women's Clothing,Biba,509,3.6,6
+PROD1215,Apple Feature Phone Plus,Electronics, Mobiles ,Apple,19599,3.8,270
+PROD2459,Hot Wheels Remote Control Car Lite,Toys & Games,Toys,Hot Wheels,299,5.0,370
+PROD1890,Nilkamal Electric Kettle Lite,Home & Kitchen,Appliances,Nilkamal,Rs. 1219,4.2,331
+PROD2381,SG Yoga Mat Essential,Sports & Fitness,Gym Equipment,SG,529,3.7,80
+PROD2296,Lakme Deodorant Pack 2.0,Beauty & Personal Care,Fragrances,Lakme,2169,4.7,472
+PROD1017,Xiaomi Fitness Band Pro,Electronics,Smartwatches,Xiaomi,2179,4.6,428
+PROD1025,Noise Feature Phone Classic,Electronics,Mobiles,Noise,"₹10,329",46.0,98
+PROD1370,Bata Kurti 2.0,Fashion,Women's Clothing,Bata,879,4.4,231
+PROD2052,McGraw Hill Productivity Book Pro,Books,Self-Help,McGraw Hill,679,4.0,279
+PROD1379,Nike Slim Fit Jeans Lite,Fashion,Men's Clothing,Nike,"₹2,089",4.0,573
+PROD1705,Levis Cotton T-Shirt X,Fashion,Men's Clothing,Levis,569,4.3,325
+PROD1642,Allen Solly Formal Shirt Plus,Fashion,Men's Clothing,Allen Solly,469,,177
+PROD2163,Wow Sunscreen SPF 50 Essential,Beauty & Personal Care,Skincare,Wow,1109,4.6,349
+PROD2278,Nivea Face Serum Max,Beauty & Personal Care,Skincare,Nivea,₹759,,354
+PROD2312,Cosco Badminton Racket Lite,sports & fitness,Outdoor,Cosco,1689,4.3,315
+PROD1347,Bata Palazzo Set Max,Fashion,Women's Clothing,Bata,1039,3.6,422
+PROD2352,Decathlon Cycling Helmet Plus,Sports & Fitness,Outdoor,Decathlon,2609,4.4,583
+PROD2462,Yoga Bar Green Tea Box X,GROCERY, Snacks & Beverages ,Yoga Bar,109,3.4,317
+PROD2018,Philips Lunch Box Set Classic,Home & Kitchen,Cookware,Philips,,4.9,197
+PROD2186,Mamaearth Eau de Parfum Classic,BEAUTY & PERSONAL CARE,Fragrances,Mamaearth,1729,4.1,564
+PROD1465,Roadster Running Shoes 2.0,Fashion,Footwear,Roadster,1009,3.7,151
+PROD2478,Yoga Bar Instant Coffee Pro,Grocery,Snacks & Beverages,Yoga Bar,129,4.1,363
+PROD1459,Allen Solly Saree Plus,Fashion,Women's Clothing,Allen Solly,3029,4.2,594
+PROD2323,Cosco Yoga Mat Pro,Sports & Fitness,Gym Equipment,Cosco,669,3.9,387
+PROD1601,Bata Western Dress Classic,Fashion,Women's Clothing,Bata,539,4.2,354
+PROD2169,Biotique Deodorant Pack Essential,BEAUTY & PERSONAL CARE,Fragrances,Biotique,₹889,4.0,515
+PROD1896,Wipro Office Chair Plus, Home & Kitchen ,Furniture,Wipro,4629,4.0,224
+PROD2236,Lakme Deodorant Pack Essential,Beauty & Personal Care,Fragrances,Lakme,1259,4.8,460
+PROD1875,Pigeon Lunch Box Set Classic,Home & Kitchen,Cookware,Pigeon,2909,3.8,31
+PROD1461,Nike Western Dress 2.0,Fashion,Women's Clothing,Nike,"₹1,679",4.6,248
+PROD1030, Noise Smartwatch X ,Electronics,Smartwatches,Noise,"₹3,609",3.8,386
+PROD2326,Boldfit Dumbbell Set Plus,Sports & Fitness,Gym Equipment,Boldfit,Rs. 8899,,377
+PROD1855,Pigeon Study Table Essential,Home & Kitchen,Furniture,Pigeon,2819,4.3,44
+PROD2189,Mamaearth Moisturizer 2.0,Beauty & Personal Care,Skincare,Mamaearth,589,3.6,503
+PROD2207,Wow Hair Oil Max,Beauty & Personal Care,Haircare,Wow,339,3.3,415
+PROD2188,Lakme Hair Oil 2.0,Beauty & Personal Care,Haircare,Lakme,629,3.6,571
+PROD1669,Adidas Western Dress Max,Fashion,Women's Clothing,Adidas,639,3.7,189
+PROD2132,McGraw Hill Competitive Exam Prep X,Books,Academic,McGraw Hill,Rs. 369,3.7,14
+PROD2436,Lego Remote Control Car Pro,Toys & Games,Toys,Lego,949,3.6,223
+PROD2464,Amul Green Tea Box X,Grocery,Snacks & Beverages,Amul,109,4.8,596
+PROD1727,Adidas Western Dress Essential,Fashion,Women's Clothing,Adidas,919,4.3,452
+PROD1236,Noise Laptop 15 inch Max,Electronics,Laptops,Noise,37049,,66
+PROD2059,Penguin Productivity Book Max,Books,Self-Help,Penguin,299,4.1,530
+PROD1879,Pigeon Pressure Cooker X,Home & Kitchen,Cookware,Pigeon,479,,-33
+PROD1582,Puma Kurti Plus,Fashion,Women's Clothing,Puma,769,3.9,279
+PROD2414, Hot Wheels Building Blocks X ,Toys & Games,Toys,Hot Wheels,289,4.7,12
+PROD1863,Nilkamal Bookshelf Classic,Home & Kitchen,Furniture,Nilkamal,"₹8,609",3.5,441
+PROD2466,Nescafe Dry Fruits Pack Essential,Grocery,Snacks & Beverages,Nescafe,1429,4.7,286
+PROD1331,Puma Formal Shoes 2.0,Fashion,Footwear,Puma,Rs. 1649,4.1,490
+PROD1482,W Sandals Max,Fashion,Footwear,W,1569,4.2,93
+PROD1967, Wipro Study Table Essential ,Home & Kitchen,Furniture,Wipro,3819,4.0,503
+PROD2222,Nivea Eau de Parfum Pro,Beauty & Personal Care,Fragrances,Nivea,399,3.7,397
+PROD1692,Nike Hoodie Pro,Fashion,Men's Clothing,Nike,609,4.1,367
+PROD1971,Milton Study Table Plus,HOME & KITCHEN,Furniture,Milton,3439,4.1,20
+PROD1099,Xiaomi Feature Phone Pro,Electronics,Mobiles,Xiaomi,12869,4.9,62
+PROD2263,Biotique Eau de Parfum Pro,Beauty & Personal Care,Fragrances,Biotique,3039,4.2,390
+PROD2416,Lego Remote Control Car Plus,Toys & Games,Toys,Lego,3189,4.0,365
+PROD2304,Nivia Dumbbell Set Max,Sports & Fitness,Gym Equipment,Nivia,2279,4.9,222
+PROD1515,Biba Formal Shoes X,Fashion,Footwear,Biba,"₹2,589",4.1,320
+PROD2153,Lakme Deodorant Pack Plus,Beauty & Personal Care,Fragrances,,689,3.8,68
+PROD2268,Nivea Face Serum Plus,Beauty & Personal Care,Skincare,Nivea,399,4.7,550
+PROD1189,OnePlus Smartwatch Plus,Electronics,Smartwatches,OnePlus,2329,4.7,0
+PROD1202,OnePlus Laptop 15 inch Max, Electronics ,Laptops,OnePlus,58089,4.0,22
+PROD2432,Mattel Remote Control Car Essential,Toys & Games,Toys,Mattel,329,4.3,474
+PROD2262,Dove Sunscreen SPF 50 Classic, Beauty & Personal Care ,skincare,Dove,719,4.3,354
+PROD1567,Allen Solly Hoodie Lite,Fashion, Men's Clothing ,Allen Solly,"₹1,409",5.0,280
+PROD1707,W Cotton T-Shirt Classic,Fashion,MEN'S CLOTHING,W,1689,3.8,599
+PROD1074,Xiaomi Feature Phone Max, Electronics ,Mobiles,Xiaomi,"₹28,779",4.2,563
+PROD2273,Mamaearth Shampoo 2.0,Beauty & Personal Care,Haircare,Mamaearth,1069,3.9,63
+PROD1042, Apple Smartphone 4G Essential ,Electronics,Mobiles,Apple,26709,4.5,322
+PROD1793, Philips Lunch Box Set Essential ,Home & Kitchen,Cookware,Philips,Rs. 629,3.4,79
+PROD2261,Wow Moisturizer Max,Beauty & Personal Care,Skincare,Wow,1159,4.5,164
+PROD1682,Bata Palazzo Set Pro,Fashion,Women's Clothing,Bata,Rs. 789,3.6,380
+PROD1323,Noise Smartphone 5G Plus,electronics,Mobiles,Noise,35959,4.7,238
+PROD1398,Nike Saree 2.0, Fashion ,Women's Clothing,Nike,599,3.9,438
+PROD1367,Allen Solly Slim Fit Jeans X,fashion,Men's Clothing,Allen Solly,Rs. 2169,4.5,157
+PROD2479,Tata Protein Bar Box Essential,Grocery,Snacks & Beverages,Tata,109,,255
+PROD1810,Nilkamal Air Fryer Essential,Home & Kitchen,Appliances,Nilkamal,7539,3.4,548
+PROD2329,Cosco Resistance Bands Essential,Sports & Fitness,GYM EQUIPMENT,Cosco,Rs. 1909,4.1,365
+PROD1105,Samsung Laptop 15 inch Plus,Electronics,Laptops,Samsung,55209,2.3,569
+PROD1968,Prestige Bookshelf Plus,HOME & KITCHEN,Furniture,Prestige,3029,4.9,132
+PROD1581,Roadster Saree Essential,Fashion,Women's Clothing,Roadster,3529,4.5,178
+PROD1539,Allen Solly Running Shoes 2.0,Fashion, Footwear ,Allen Solly,1829,3.5,461
+PROD1287,boAt Smartphone 5G Pro,Electronics,mobiles,boAt,20819,4.5,498
+PROD2300,Boldfit Badminton Racket Pro,Sports & Fitness,Outdoor,Boldfit,1329,5.0,66
+PROD1747,Allen Solly Kurti Plus, fashion ,Women's Clothing,Allen Solly,1489,4.1,59
+PROD2267,Dove Hair Oil Plus,Beauty & Personal Care,Haircare,Dove,199,4.2,18
+PROD2438,Hot Wheels Building Blocks Max,Toys & Games,Toys,Hot Wheels,489,3.8,286
+PROD1605,Biba Formal Shoes X,Fashion,Footwear,Biba,2459,4.1,219
+PROD2081,Arihant Engineering Guide Max, Books ,Academic,Arihant,1329,4.4,128
+PROD1229,Xiaomi Gaming Laptop Max,Electronics,Laptops,Xiaomi,52469,4.2,537
+PROD1568,W Palazzo Set Plus,Fashion,Women's Clothing,W,1869,5.0,251
+PROD1321,OnePlus Wireless Earbuds Lite,Electronics,Headphones,OnePlus,3299,4.5,226
+PROD1390,Nike Slim Fit Jeans Lite,Fashion,Men's Clothing,Nike,499,3.5,168
+PROD1573,Allen Solly Running Shoes Plus,Fashion,Footwear,Allen Solly,1309,4.1,471
+PROD1090,Realme Neckband Pro,Electronics,Headphones,Realme,779,4.6,352
+PROD2122,Rupa Competitive Exam Prep Classic,Books,ACADEMIC,Rupa,259,3.6,258
+PROD1558,Bata Formal Shoes Essential,Fashion,Footwear,Bata,1559,3.0,572
+PROD1077,HP Feature Phone Lite,ELECTRONICS,Mobiles,,11389,5.0,573
+PROD1363,W Western Dress Lite,fashion,Women's Clothing,W,689,3.8,225
+PROD1083,boAt Laptop 15 inch 2.0,Electronics,Laptops,boAt,53209,4.8,495
+PROD1125,boAt Over-Ear Headphones Lite,Electronics,Headphones,boAt,7409,4.0,182
+PROD1724,Biba Saree Lite,Fashion,Women's Clothing,Biba,"₹3,789",3.2,108
+PROD1629,Adidas Hoodie 2.0,Fashion,Men's Clothing,Adidas,399,4.3,283
+PROD1079,Xiaomi Smartphone 5G Max,Electronics,Mobiles,Xiaomi,31149,4.2,351
+PROD1987,Philips Study Table 2.0,Home & Kitchen,Furniture,Philips,"₹8,969",4.3,425
+PROD1862,Milton Lunch Box Set Classic,Home & Kitchen,Cookware,Milton,0,4.2,55
+PROD2424,Lego Building Blocks Lite,Toys & Games,Toys,Lego,289,4.4,330
+PROD1364,Adidas Saree Lite,Fashion,Women's Clothing,Adidas,4379,4.0,542
+PROD2387,Decathlon Cycling Helmet 2.0,Sports & Fitness,Outdoor,Decathlon,809,4.0,449
+PROD1525,Nike Formal Shoes Lite,Fashion,Footwear,Nike,2129,3.8,316
+PROD1306,Apple Laptop 15 inch Essential,ELECTRONICS,Laptops,Apple,57459,,150
+PROD1463, Puma Slim Fit Jeans Plus ,Fashion,Men's Clothing,Puma,1309,4.6,13
+PROD1214,Apple Smartphone 5G Essential,Electronics,Mobiles,Apple,28139,4.1,230
+PROD2218,Lakme Eau de Parfum 2.0,Beauty & Personal Care,Fragrances,Lakme,389,5.0,400
+PROD2371,Nivia Cycling Helmet 2.0,Sports & Fitness,Outdoor,Nivia,2169,4.0,471
+PROD1670,Biba Formal Shoes X,Fashion,FOOTWEAR,Biba,979,4.3,326
+PROD1281,Apple Fitness Band Lite,Electronics,Smartwatches,Apple,2449,4.0,281
+PROD1840,Wipro Office Chair Lite,Home & Kitchen,Furniture,Wipro,4309,4.1,248
+PROD1418,Adidas Cotton T-Shirt Lite,Fashion,Men's Clothing,Adidas,2949,3.2,397
+PROD2179,Mamaearth Face Serum X,Beauty & Personal Care,Skincare,Mamaearth,369,5.0,345
+PROD2365, Decathlon Cricket Bat Plus ,Sports & Fitness,Outdoor,Decathlon,1279,4.0,89
+PROD2076,Arihant Engineering Guide Lite,Books,Academic,Arihant,199,3.5,72
+PROD2272,Wow Shampoo X,Beauty & Personal Care,Haircare,Wow,1929,3.6,324
+PROD2470,Tata Dry Fruits Pack Essential,Grocery,Snacks & Beverages,,639,4.1,396
+PROD1804, Milton Lunch Box Set Max ,Home & Kitchen,Cookware,Milton,₹429,4.2,56
+PROD1848,Havells Non-Stick Pan Set Plus,Home & Kitchen,Cookware,,Rs. 809,3.7,150
+PROD1018,Sony Feature Phone Plus,Electronics,MOBILES,Sony,24139,4.1,193
+PROD2311,Boldfit Cricket Bat 2.0,Sports & Fitness,Outdoor,Boldfit,979,5.0,155
+PROD1310,Noise Smartwatch Classic,Electronics,Smartwatches,Noise,2959,3.7,315
+PROD1654,Nike Western Dress Max,Fashion,Women's Clothing,Nike,2259,4.6,304
+PROD1523,Adidas Sandals Plus,Fashion,Footwear,,2009,3.8,52
+PROD1919,Milton Lunch Box Set Pro,Home & Kitchen,Cookware,Milton,Rs. 3499,3.8,572
+PROD1581,Roadster Saree Essential,Fashion,Women's Clothing,Roadster,3529,4.5,178
+PROD1976,Wipro Induction Cooktop X,Home & Kitchen,appliances,Wipro,7629,4.5,206
+PROD1816,Philips Lunch Box Set Lite,Home & Kitchen,Cookware,Philips,559,,451
+PROD2032,HarperCollins Finance Book Pro,Books,self-help,HarperCollins,409,4.0,344
+PROD2475,Yoga Bar Protein Bar Box Pro,Grocery,Snacks & Beverages,Yoga Bar,1179,4.2,366
+PROD2364,Boldfit Yoga Mat X, SPORTS & FITNESS ,Gym Equipment,Boldfit,1519,4.8,381
+PROD1774,Nilkamal Bookshelf Pro,HOME & KITCHEN,Furniture,Nilkamal,4149,4.7,393
+PROD2107,Rupa Productivity Book X,Books,Self-Help,Rupa,439,4.3,516
+PROD1841,Wipro Study Table Max,Home & Kitchen,Furniture,Wipro,2709,2.8,245
+PROD1988,Philips Pressure Cooker Pro,Home & Kitchen,Cookware,Philips,2729,,248
+PROD2157,Lakme Shampoo Classic,Beauty & Personal Care,Haircare,Lakme,859,3.9,11
+PROD1036, Samsung Fitness Band Pro , Electronics ,Smartwatches,Samsung,2129,5.0,142
+PROD1580,Levis Saree Pro,fashion,Women's Clothing,Levis,"₹2,119",4.4,548
+PROD1775,Wipro Electric Kettle Lite,Home & Kitchen,Appliances,Wipro,2019,2.8,536
+PROD1755,Pigeon Mixer Grinder Max,Home & Kitchen,Appliances,Pigeon,5019,3.7,191
+PROD1878,Havells Mixer Grinder 2.0,Home & Kitchen,Appliances,Havells,1159,4.9,301
+PROD1262,Apple Feature Phone Classic,Electronics,Mobiles,Apple,"₹21,299",3.3,582
+PROD1802,Prestige Pressure Cooker X,Home & Kitchen,Cookware,Prestige,2359,4.4,399
+PROD1073,HP Feature Phone 2.0,Electronics,Mobiles,HP,14749,4.2,371
+PROD1766,Havells Air Fryer Essential,Home & Kitchen,Appliances,Havells,1329,3.9,-190
+PROD1892,Philips Air Fryer X,Home & Kitchen,APPLIANCES,Philips,Rs. 3169,4.5,82
+PROD2340,Boldfit Badminton Racket Plus,Sports & Fitness,outdoor,Boldfit,529,4.0,319
+PROD1826,Nilkamal Air Fryer 2.0,Home & Kitchen, Appliances ,Nilkamal,Rs. 2939,5.0,327
+PROD2010,Nilkamal Air Fryer Plus,Home & Kitchen,Appliances,Nilkamal,Rs. 5459,4.7,261
+PROD1679,Bata Formal Shirt Max,Fashion,Men's Clothing,Bata,3489,5.0,382
+PROD1740,W Running Shoes Classic,Fashion,Footwear,W,1909,4.1,118
+PROD1751,Prestige Office Chair Lite,Home & Kitchen,Furniture,Prestige,8249,3.6,513
+PROD1340,Bata Western Dress Classic,Fashion,Women's Clothing,Bata,4219,3.5,477
+PROD1062, Xiaomi Gaming Laptop Lite ,Electronics,Laptops,Xiaomi,73959,,363
+PROD1585,Bata Cotton T-Shirt Plus,Fashion,Men's Clothing,Bata,1699,4.4,20
+PROD1860,Philips Mixer Grinder X,Home & Kitchen,Appliances,Philips,"₹2,409",4.1,235
+PROD2177,Lakme Shampoo Pro,Beauty & Personal Care,Haircare,Lakme,2079,5.0,184
+PROD2160,Wow Deodorant Pack 2.0,Beauty & Personal Care,Fragrances,Wow,919,3.6,88
+PROD1078,Noise Gaming Laptop Lite,Electronics,Laptops,,45329,3.9,256
+PROD2055,McGraw Hill Thriller Paperback X,Books, Fiction ,McGraw Hill,229,4.4,99
+PROD1895,Havells Mixer Grinder Plus,Home & Kitchen, Appliances ,Havells,3539,4.6,227
+PROD1484,Levis Hoodie Plus,Fashion,Men's Clothing,Levis,949,3.5,585
+PROD2069,Penguin Thriller Paperback Classic,books,Fiction,Penguin,Rs. 419,4.3,496
+PROD1193,boAt Over-Ear Headphones Plus,Electronics,Headphones,boAt,4299,3.5,70
+PROD1716,Levis Cotton T-Shirt Classic,Fashion,Men's Clothing,Levis,1719,3.2,218
+PROD2037,Penguin Competitive Exam Prep Plus, Books ,Academic,Penguin,389,3.8,243
+PROD1517,Roadster Cotton T-Shirt Pro,Fashion,Men's Clothing,Roadster,1029,3.7,189
+PROD2473,Tata Dry Fruits Pack X,Grocery,Snacks & Beverages,Tata,569,4.8,438
+PROD1853,Wipro Office Chair Essential,Home & Kitchen,Furniture,Wipro,2619,3.9,554
+PROD1701, W Slim Fit Jeans Max ,Fashion,Men's Clothing,W,519,3.5,117
+PROD1395,W Sneakers X,Fashion,Footwear,W,4079,,43
+PROD1452,Roadster Hoodie Lite,Fashion,Men's Clothing,Roadster,Rs. 2689,4.0,253
+PROD1939,Nilkamal Office Chair Plus,Home & Kitchen,Furniture,Nilkamal,5129,5.0,536
+PROD2457,Lego Remote Control Car X,toys & games,Toys,Lego,₹349,3.5,364
+PROD1546,W Sneakers Pro,Fashion,Footwear,W,499,4.4,100
+PROD1721,Biba Hoodie 2.0,Fashion,MEN'S CLOTHING,Biba,0,4.5,176
+PROD1889,Pigeon Air Fryer Lite,Home & Kitchen,Appliances,Pigeon,2449,4.2,8
+PROD1307,Realme Wireless Earbuds Classic,Electronics,Headphones,Realme,1279,3.2,479
+PROD2481,Tata Protein Bar Box Lite,Grocery,Snacks & Beverages,Tata,99,4.2,144
+PROD1973,Wipro Non-Stick Pan Set Plus,Home & Kitchen,Cookware,Wipro,2929,3.9,233
+PROD1194,Realme Laptop 15 inch Essential,Electronics,Laptops,Realme,66829,4.0,537
+PROD2437,Funskool Building Blocks Lite,TOYS & GAMES,Toys,Funskool,3109,4.5,250
+PROD1337,Roadster Saree 2.0,Fashion,Women's Clothing,Roadster,₹579,4.1,33
+PROD1180, Realme Laptop 15 inch Max ,Electronics,Laptops,Realme,74499,4.0,220
+PROD2495,Tata Green Tea Box Plus,Grocery,Snacks & Beverages,Tata,109,4.0,483
+PROD2302,Boldfit Dumbbell Set X,Sports & Fitness,Gym Equipment,Boldfit,689,3.9,241
+PROD2191, Biotique Eau de Parfum 2.0 ,Beauty & Personal Care,Fragrances,Biotique,,,538
+PROD2294,Mamaearth Moisturizer Essential,Beauty & Personal Care,Skincare,Mamaearth,469,3.4,383
+PROD2396,Nivia Cycling Helmet 2.0,Sports & Fitness,OUTDOOR,Nivia,1189,3.6,91
+PROD2209,Nivea Eau de Parfum Lite,Beauty & Personal Care,Fragrances,Nivea,529,4.1,246
+PROD1277,Samsung Feature Phone Max,Electronics,Mobiles,Samsung,"₹65,009",,45
+PROD1857,Prestige Bookshelf Plus,Home & Kitchen,Furniture,Prestige,2449,4.9,436
+PROD2164,Mamaearth Deodorant Pack Pro,Beauty & Personal Care,Fragrances,Mamaearth,259,4.5,484
+PROD1839,Pigeon Non-Stick Pan Set 2.0,Home & Kitchen,Cookware,Pigeon,2219,4.0,70
+PROD1014,Lenovo Smartphone 5G Classic,Electronics,Mobiles,Lenovo,56659,4.9,191
+PROD1909,Pigeon Lunch Box Set Classic, home & kitchen ,cookware,Pigeon,₹519,4.4,233
+PROD1715,Roadster Formal Shirt 2.0,Fashion,Men's Clothing,Roadster,489,3.7,17
+PROD2104,Arihant Productivity Book Essential,Books,Self-Help,Arihant,₹649,3.3,510
+PROD1249, Sony Fitness Band X ,Electronics,Smartwatches,Sony,7429,3.6,98
+PROD1414,Biba Hoodie 2.0,Fashion,Men's Clothing,Biba,2179,5.0,522
+PROD1783, Havells Pressure Cooker Plus ,Home & Kitchen,Cookware,Havells,429,4.3,498
+PROD2151, Dove Face Serum Lite ,Beauty & Personal Care,Skincare,Dove,309,4.5,202
+PROD1554,Levis Palazzo Set Pro,Fashion,Women's Clothing,Levis,3899,4.2,583
+PROD1304,Apple Smartphone 5G Essential,Electronics,Mobiles,Apple,Rs. 33779,3.5,468
+PROD1955,Pigeon Air Fryer 2.0,Home & Kitchen,Appliances,Pigeon,7809,3.8,297
+PROD1257,boAt Ultrabook Classic,Electronics,Laptops,boAt,"₹94,739",4.2,188
+PROD2457,Lego Remote Control Car X,toys & games,Toys,Lego,₹349,3.5,364
+PROD1695,Biba Sneakers Pro, Fashion ,Footwear,Biba,"₹2,119",3.5,257
+PROD1944,Prestige Mixer Grinder Essential,Home & Kitchen,Appliances,Prestige,6579,4.5,108
+PROD1811,Philips Pressure Cooker Essential,Home & Kitchen,Cookware,Philips,3449,4.5,191
+PROD1506,Levis Sneakers Essential,Fashion,Footwear,Levis,Rs. 1709,5.0,118
+PROD2042,HarperCollins Engineering Guide Classic,Books,Academic,HarperCollins,1189,4.4,191
+PROD2361,Decathlon Badminton Racket Essential,Sports & Fitness,Outdoor,Decathlon,"₹1,009",4.4,471
+PROD1905,Milton Office Chair Max,home & kitchen,Furniture,Milton,Rs. 10159,3.9,352
+PROD1632,W Palazzo Set Classic,Fashion,Women's Clothing,W,1399,4.5,568
+PROD2121,Rupa Medical Reference Essential,Books,Academic,Rupa,419,4.2,419
+PROD1106,Apple Over-Ear Headphones Plus,Electronics,HEADPHONES,Apple,5579,4.4,91
+PROD1625,Levis Slim Fit Jeans X,Fashion,Men's Clothing,Levis,1079,3.2,385
+PROD2286,Mamaearth Deodorant Pack Pro,Beauty & Personal Care,Fragrances,Mamaearth,389,4.7,577
+PROD1974,Milton Induction Cooktop Lite,Home & Kitchen,Appliances,Milton,5149,3.7,22
+PROD1392,Nike Slim Fit Jeans X,Fashion,MEN'S CLOTHING,Nike,959,3.6,566
+PROD2301,Decathlon Cricket Bat Lite,Sports & Fitness,Outdoor,Decathlon,6279,50.0,354
+PROD1131,boAt Smartwatch Essential,Electronics,smartwatches,boAt,Rs. 13609,3.5,548
+PROD2074,Rupa Competitive Exam Prep Plus,Books,Academic,Rupa,₹519,4.4,204
+PROD2321, Boldfit Resistance Bands 2.0 ,Sports & Fitness,Gym Equipment,Boldfit,959,4.4,109
+PROD1159,Realme Wireless Earbuds Lite,Electronics,Headphones,Realme,1849,4.1,247
+PROD1137,Xiaomi Smartwatch Plus,Electronics,Smartwatches,Xiaomi,4549,4.1,333
+PROD2353,SG Dumbbell Set Lite,Sports & Fitness,Gym Equipment,SG,3939,4.1,59
+PROD1168,Apple Smartwatch Lite,Electronics,Smartwatches,Apple,13169,3.6,222
+PROD1983,Philips Study Table Pro,Home & Kitchen,Furniture,Philips,13019,4.3,381
+PROD2248,Biotique Deodorant Pack Max,Beauty & Personal Care,Fragrances,Biotique,1149,4.8,245
+PROD1850,Milton Non-Stick Pan Set Pro,Home & Kitchen,Cookware,Milton,,4.9,179
+PROD2363,Boldfit Badminton Racket Pro,Sports & Fitness,Outdoor,Boldfit,799,4.3,200
+PROD2358, Nivia Dumbbell Set Essential ,Sports & Fitness,Gym Equipment,Nivia,,,97
+PROD2351, Decathlon Dumbbell Set Lite ,Sports & Fitness,Gym Equipment,Decathlon,409,3.5,541
+PROD2250,Nivea Hair Dryer 2.0,Beauty & Personal Care,Haircare,Nivea,₹209,4.7,408
+PROD2224,Mamaearth Sunscreen SPF 50 Pro,Beauty & Personal Care,Skincare,Mamaearth,259,4.0,564
+PROD1294,Apple Smartwatch 2.0,Electronics,Smartwatches,Apple,"₹1,619",5.0,207
+PROD1220,Noise Smartwatch Max,Electronics,Smartwatches,Noise,6549,4.0,54
+PROD1477,Levis Western Dress 2.0,Fashion,Women's Clothing,Levis,1029,3.9,240
+PROD2375,Boldfit Badminton Racket Pro,Sports & Fitness,Outdoor,Boldfit,Rs. 789,3.5,384
+PROD2368,Cosco Cricket Bat Plus,Sports & Fitness,Outdoor,,4119,3.9,496
+PROD2199, Biotique Deodorant Pack X ,Beauty & Personal Care, Fragrances ,Biotique,1029,4.1,57
+PROD1800,Nilkamal Pressure Cooker Max,Home & Kitchen,Cookware,Nilkamal,2549,4.4,433
+PROD1671, Roadster Running Shoes Lite ,Fashion,Footwear,Roadster,1719,4.9,261
+PROD1181,Xiaomi Smartphone 5G Pro,Electronics,Mobiles,Xiaomi,34479,3.7,157
+PROD2295,Nivea Hair Oil 2.0,beauty & personal care,Haircare,Nivea,2459,3.8,454
+PROD1472,W Cotton T-Shirt Lite,FASHION,Men's Clothing,W,949,4.0,98
+PROD1641,Levis Kurti Max,Fashion,Women's Clothing,Levis,2859,3.9,245
+PROD1986,Wipro Non-Stick Pan Set X,Home & Kitchen,Cookware,Wipro,1189,3.5,439
+PROD1493,Biba Saree X,Fashion,WOMEN'S CLOTHING,Biba,"₹1,359",3.9,28
+PROD1053,OnePlus Wireless Earbuds 2.0,Electronics, Headphones ,OnePlus,979,3.9,489
+PROD1282,HP Gaming Laptop 2.0,Electronics,Laptops,HP,57449,3.7,354
+PROD1522,W Sandals Essential,Fashion,Footwear,W,2329,4.4,547
+PROD1597,Biba Slim Fit Jeans Plus,Fashion,Men's Clothing,Biba,1629,4.4,430
+PROD1428,Biba Slim Fit Jeans Max,Fashion,Men's Clothing,Biba,1129,4.7,365
+PROD2277,Wow Deodorant Pack Classic,Beauty & Personal Care,fragrances,Wow,1579,4.0,248
+PROD1416,W Hoodie Plus,Fashion,Men's Clothing,W,"₹1,089",4.4,9
+PROD2492, Nescafe Dry Fruits Pack 2.0 ,Grocery,Snacks & Beverages,Nescafe,659,4.6,256
+PROD1381,Bata Sandals Essential,Fashion,Footwear,Bata,2839,3.9,288
+PROD1520,W Hoodie Max,fashion,Men's Clothing,W,3449,4.3,395
+PROD2477,Nescafe Green Tea Box X,Grocery, Snacks & Beverages ,Nescafe,1639,4.8,109
+PROD1295,OnePlus Fitness Band Lite,Electronics,Smartwatches,OnePlus,1949,3.5,144
+PROD1595,W Sneakers Essential,Fashion,Footwear,W,2959,4.7,70
+PROD2384,Decathlon Dumbbell Set X,SPORTS & FITNESS,gym equipment,Decathlon,619,4.3,31
+PROD2115,Arihant Bestselling Novel X,Books,Fiction,Arihant,Rs. 629,3.5,183
+PROD2180,Wow Face Serum 2.0,Beauty & Personal Care,Skincare,Wow,1869,3.7,404
+PROD1803, Pigeon Office Chair Essential ,Home & Kitchen,Furniture,Pigeon,"₹2,789",3.7,213
+PROD1583,Roadster Running Shoes Classic,Fashion,Footwear,Roadster,1579,3.6,495
+PROD1608,Adidas Western Dress Max,Fashion,Women's Clothing,Adidas,"₹1,709",4.5,431
+PROD2461,Tata Protein Bar Box Max, GROCERY ,Snacks & Beverages,Tata,119,4.3,559
+PROD1481,Levis Cotton T-Shirt Max,Fashion,MEN'S CLOTHING,Levis,1839,4.5,464
+PROD1324,HP Smartphone 5G X,Electronics,Mobiles,HP,14479,4.6,26
+PROD1278,Lenovo Smartwatch X,ELECTRONICS,Smartwatches,Lenovo,3759,4.0,274
+PROD1167,OnePlus Wireless Earbuds Plus,Electronics,Headphones,OnePlus,Rs. 2779,4.4,540
+PROD2253,Nivea Sunscreen SPF 50 Max,Beauty & Personal Care,Skincare,Nivea,₹729,4.2,291
+PROD1651,Biba Western Dress Plus,Fashion,Women's Clothing,,"₹1,549",4.9,207
+PROD1776,Wipro Pressure Cooker Max,Home & Kitchen,Cookware,Wipro,719,3.9,207
+PROD1184,Lenovo Smartwatch Essential,Electronics,Smartwatches,,1769,,45
+PROD1734,Bata Formal Shoes X,Fashion,Footwear,Bata,3339,4.5,159
+PROD2285,Wow Hair Oil Max,Beauty & Personal Care,Haircare,Wow,Rs. 499,3.6,534
+PROD1503,Bata Kurti X,Fashion,Women's Clothing,Bata,1239,4.0,128
+PROD2249, Nivea Eau de Parfum Pro ,Beauty & Personal Care,Fragrances,Nivea,269,3.0,526
+PROD1093,Noise Feature Phone Lite,Electronics,Mobiles,Noise,10529,3.0,356
+PROD2332,Nivia Badminton Racket X,Sports & Fitness,OUTDOOR,Nivia,4079,4.3,314
+PROD1681,Bata Formal Shoes Essential,Fashion,Footwear,Bata,1189,3.3,416
+PROD1219,Sony Smartphone 4G Plus,Electronics,Mobiles,Sony,61329,3.6,117
+PROD2433,Funskool Remote Control Car X,Toys & Games,Toys,Funskool,1759,4.0,537
+PROD2173,Biotique Deodorant Pack Plus,Beauty & Personal Care,Fragrances,Biotique,1099,4.7,558
+PROD1130,Lenovo Smartphone 4G Lite, Electronics ,Mobiles,Lenovo,14169,3.7,210
+PROD2498,Nescafe Protein Bar Box Plus,Grocery, Snacks & Beverages ,Nescafe,779,4.2,185
+PROD1675,Bata Hoodie X,Fashion,Men's Clothing,Bata,469,3.7,340
+PROD2266,Lakme Hair Oil Lite,Beauty & Personal Care,Haircare,Lakme,319,4.6,572
+PROD1114,OnePlus Laptop 15 inch 2.0,Electronics,Laptops,OnePlus,Rs. 55949,4.1,174
+PROD1822, Nilkamal Mixer Grinder Essential ,Home & Kitchen,Appliances,Nilkamal,3259,3.4,105
+PROD1886,Wipro Pressure Cooker Essential,Home & Kitchen,COOKWARE,Wipro,1649,4.4,567
+PROD2494,Haldiram Dry Fruits Pack X,Grocery,Snacks & Beverages,Haldiram,359,4.1,536
+PROD1080,Realme Smartphone 4G Classic,Electronics,Mobiles,Realme,"₹47,649",3.5,-345
+PROD1931,Wipro Lunch Box Set Essential,home & kitchen,Cookware,Wipro,,3.2,362
+PROD2108,Penguin Medical Reference Classic,Books,Academic,Penguin,449,4.4,412
+PROD1926,Prestige Bookshelf Lite,Home & Kitchen,Furniture,Prestige,"₹17,159",4.5,252
+PROD1054, Xiaomi Neckband 2.0 ,Electronics,Headphones,Xiaomi,2709,3.0,340
+PROD2167, Mamaearth Sunscreen SPF 50 X ,Beauty & Personal Care,Skincare,Mamaearth,819,3.8,464
+PROD1449,Puma Kurti 2.0,Fashion,Women's Clothing,Puma,4199,3.2,359
+PROD1594,Puma Saree Pro,Fashion,Women's Clothing,Puma,3099,3.5,454
+PROD2275,Nivea Hair Dryer Classic,Beauty & Personal Care, Haircare ,Nivea,1159,3.5,597
+PROD1901,Pigeon Mixer Grinder Classic,Home & Kitchen,Appliances,Pigeon,2379,4.6,237
+PROD1838,Wipro Study Table Plus,Home & Kitchen,Furniture,Wipro,4619,4.1,294
+PROD1789,Prestige Office Chair Classic,Home & Kitchen,Furniture,Prestige,5399,4.8,451
+PROD2382,SG Yoga Mat X,Sports & Fitness,Gym Equipment,SG,2029,4.7,101
+PROD1446,Puma Sandals Essential, Fashion ,Footwear,Puma,709,,350
+PROD1123,Xiaomi Gaming Laptop Plus,Electronics,Laptops,Xiaomi,39609,,440
+PROD1111,Apple Smartwatch X,Electronics,Smartwatches,Apple,Rs. 1779,4.6,538
+PROD1213,Xiaomi Gaming Laptop Max,Electronics,Laptops,Xiaomi,95579,3.8,491
+PROD2426,Funskool Board Game Max,Toys & Games,Toys,Funskool,"₹1,389",4.6,267
+PROD1064, Lenovo Neckband Pro ,Electronics,Headphones,Lenovo,2519,3.3,330
+PROD1039,HP Feature Phone Classic,Electronics, Mobiles ,HP,31989,4.1,598
+PROD2453,Funskool Board Game Lite,Toys & Games,Toys,Funskool,"₹3,169",4.8,124
+PROD1208,Noise Feature Phone Classic,ELECTRONICS,Mobiles,Noise,12219,3.8,166
+PROD1423,Levis Sneakers Essential,FASHION,Footwear,Levis,1019,4.0,471
+PROD1911,Wipro Office Chair Lite,Home & Kitchen,Furniture,Wipro,9929,4.7,128
+PROD1771,Pigeon Study Table Lite,Home & Kitchen,Furniture,Pigeon,5079,5.0,304
+PROD1928,Prestige Bookshelf Classic,Home & Kitchen,Furniture,Prestige,17749,4.1,196
+PROD2100,HarperCollins Competitive Exam Prep Max,Books,Academic,HarperCollins,₹489,3.5,320
+PROD2310,Decathlon Cricket Bat Lite,Sports & Fitness,Outdoor,Decathlon,1309,4.4,294
+PROD1192,Apple Neckband Pro,Electronics,Headphones,Apple,10629,4.2,459
+PROD2113,HarperCollins Medical Reference Essential,Books,Academic,HarperCollins,1249,4.2,197
+PROD1474,Allen Solly Cotton T-Shirt X,Fashion,Men's Clothing,Allen Solly,529,4.0,507
+PROD1203,Realme Gaming Laptop Max,Electronics,LAPTOPS,Realme,62619,4.9,468
+PROD1024,HP Feature Phone Classic,Electronics,Mobiles,HP,Rs. 29889,3.6,325
+PROD1007,Xiaomi Neckband 2.0,Electronics,Headphones,Xiaomi,3609,4.2,566
+PROD1643,Levis Palazzo Set Plus,fashion,Women's Clothing,Levis,3869,3.7,47
+PROD1060,Lenovo Over-Ear Headphones Lite,Electronics,Headphones,Lenovo,1829,4.5,179
+PROD2269,Wow Shampoo Lite, Beauty & Personal Care ,Haircare,Wow,₹409,3.2,0
+PROD1475,Biba Slim Fit Jeans Plus,Fashion,Men's Clothing,Biba,599,4.0,443
+PROD2116,McGraw Hill Bestselling Novel Essential,Books,Fiction,McGraw Hill,179,3.4,239
+PROD2265,Lakme Hair Dryer Lite,Beauty & Personal Care,Haircare,Lakme,979,3.3,584
+PROD2463,Nescafe Green Tea Box Essential,GROCERY,Snacks & Beverages,Nescafe,349,3.3,85
+PROD2049,Rupa Thriller Paperback X,Books,Fiction,Rupa,169,4.9,591
+PROD1117,Lenovo Over-Ear Headphones X,Electronics,Headphones,Lenovo,6979,4.1,157
+PROD1057,boAt Feature Phone Pro,Electronics,Mobiles,boAt,12169,3.7,189
+PROD2230,Lakme Face Serum 2.0,Beauty & Personal Care,Skincare,Lakme,2369,4.0,36
+PROD1556,Biba Slim Fit Jeans X, Fashion ,Men's Clothing,Biba,729,4.5,433
+PROD1101,HP Smartphone 4G 2.0,Electronics, Mobiles ,HP,13129,4.4,360
+PROD1451,Adidas Running Shoes Lite,Fashion,Footwear,Adidas,1999,3.5,521
+PROD1948,Prestige Office Chair Pro,Home & Kitchen,furniture,Prestige,"₹5,469",4.0,523
+PROD1743,Allen Solly Saree Lite,Fashion,Women's Clothing,Allen Solly,2169,,318
+PROD2392,Decathlon Resistance Bands Max,Sports & Fitness,Gym Equipment,Decathlon,4109,3.4,185
+PROD2237,Lakme Face Serum X,beauty & personal care,SKINCARE,Lakme,269,4.3,131
+PROD1858,Havells Lunch Box Set Max,Home & Kitchen,Cookware,Havells,409,4.5,547
+PROD1806,Havells Lunch Box Set 2.0,Home & Kitchen,Cookware,,429,4.4,56
+PROD2274,Dove Moisturizer Max, Beauty & Personal Care ,Skincare,Dove,499,3.4,110
+PROD2035,Rupa Finance Book Classic,Books,Self-Help,Rupa,349,3.9,538
+PROD2033,Rupa Bestselling Novel Max,Books,Fiction,Rupa,179,4.1,47
+PROD1212,boAt Laptop 15 inch Max,Electronics, Laptops ,boAt,104989,4.4,576
+PROD1384,Adidas Western Dress Classic,Fashion,Women's Clothing,Adidas,2859,4.4,584
+PROD1108,boAt Smartphone 4G 2.0,Electronics,Mobiles,boAt,38159,4.0,366
+PROD2434,Mattel Building Blocks 2.0,Toys & Games,Toys,Mattel,579,3.9,348
+PROD1541,Nike Cotton T-Shirt Classic,Fashion, men's clothing ,Nike,2619,3.7,534
+PROD1359,Bata Sneakers Lite,Fashion, Footwear ,Bata,839,4.0,125
+PROD1176,Apple Wireless Earbuds Lite,ELECTRONICS,Headphones,Apple,Rs. 2359,4.3,161
+PROD1351,Puma Formal Shoes Plus,Fashion,Footwear,Puma,519,4.2,452
+PROD2086,McGraw Hill Engineering Guide Classic, Books ,Academic,McGraw Hill,229,3.6,67
+PROD1760,Havells Study Table Classic,Home & Kitchen, Furniture ,Havells,10669,46.0,463
+PROD1490,Biba Sandals Pro,Fashion,Footwear,Biba,499,4.1,205
+PROD1266,boAt Fitness Band Pro,Electronics, Smartwatches ,boAt,5119,3.7,302
+PROD1320,Apple Smartwatch Plus,Electronics,Smartwatches,Apple,6469,4.7,439
+PROD1592,Roadster Hoodie Lite,Fashion,Men's Clothing,Roadster,1339,4.2,261
+PROD1623,Puma Western Dress Classic,Fashion,women's clothing,Puma,2789,4.1,127
+PROD1854, Pigeon Electric Kettle Essential ,Home & Kitchen,Appliances,Pigeon,969,4.3,2
+PROD1081,HP Smartphone 4G Plus,Electronics,Mobiles,HP,38969,4.3,122
+PROD1268,Xiaomi Neckband Classic,Electronics,Headphones,Xiaomi,5469,3.9,19
+PROD2255,Lakme Eau de Parfum Essential,Beauty & Personal Care, Fragrances ,Lakme,₹209,4.6,238
+PROD1267,HP Feature Phone Classic,Electronics, Mobiles ,HP,52239,4.0,257
+PROD1097,Samsung Smartwatch Essential,Electronics,Smartwatches,Samsung,10289,,374
+PROD1142,HP Smartwatch Lite,ELECTRONICS,smartwatches,HP,6369,4.8,423
+PROD1942,Pigeon Air Fryer Max,Home & Kitchen,Appliances,Pigeon,1009,4.2,204
+PROD1530,Nike Formal Shirt Essential,Fashion,Men's Clothing,Nike,₹769,4.1,492
+PROD1378,Allen Solly Western Dress Pro,Fashion,Women's Clothing,Allen Solly,919,3.7,429
+PROD1061,boAt Gaming Laptop Classic,Electronics,Laptops,boAt,56339,4.2,444
+PROD2499,Yoga Bar Protein Bar Box 2.0,Grocery,Snacks & Beverages,Yoga Bar,149,3.6,383
+PROD1781,Nilkamal Lunch Box Set Classic,Home & Kitchen,Cookware,Nilkamal,₹409,3.9,122
+PROD2109,Arihant Engineering Guide Plus,Books, Academic ,Arihant,329,4.0,569
+PROD1861,Havells Office Chair 2.0,Home & Kitchen,Furniture,Havells,8009,4.3,580
+PROD2446,Mattel Building Blocks 2.0,Toys & Games,Toys,Mattel,299,4.1,411
+PROD1022,Realme Wireless Earbuds Classic,Electronics,Headphones,Realme,4189,4.5,451
+PROD1628,W Kurti Essential,Fashion,Women's Clothing,W,3579,5.0,121
+PROD2211,Biotique Hair Dryer Classic,Beauty & Personal Care,Haircare,Biotique,909,4.1,176
+PROD1773,Philips Induction Cooktop Max,Home & Kitchen,Appliances,Philips,Rs. 8809,3.7,539
+PROD1383,Allen Solly Western Dress Lite,FASHION,Women's Clothing,Allen Solly,"₹2,829",3.4,269
+PROD1348,Adidas Slim Fit Jeans Max,Fashion,Men's Clothing,Adidas,569,3.7,444
+PROD2252,Biotique Eau de Parfum Classic,beauty & personal care,Fragrances,Biotique,3709,4.5,100
+PROD1350,Nike Formal Shirt Classic,Fashion,Men's Clothing,Nike,2399,3.2,555
+PROD1657,Allen Solly Sneakers Max,Fashion,Footwear,Allen Solly,5759,4.0,464
+PROD1434,Nike Running Shoes Plus,fashion,Footwear,Nike,1309,4.9,423
+PROD1687,Nike Cotton T-Shirt 2.0,Fashion, Men's Clothing ,Nike,1469,3.8,-174
+PROD1216,boAt Ultrabook 2.0,electronics,Laptops,boAt,65419,3.3,199
+PROD2079,HarperCollins Competitive Exam Prep Lite, BOOKS , Academic ,,249,4.2,281
+PROD1387,W Slim Fit Jeans Essential,Fashion, Men's Clothing ,W,749,4.5,513
+PROD1177,Lenovo Fitness Band Lite,Electronics,Smartwatches,Lenovo,4649,4.8,359
+PROD2194,Nivea Moisturizer Classic,Beauty & Personal Care,Skincare,Nivea,₹599,4.3,231
+PROD1714,W Kurti X,Fashion,Women's Clothing,W,899,3.5,523
+PROD1458,Levis Formal Shirt 2.0,Fashion,Men's Clothing,Levis,2689,4.6,513
+PROD1864,Milton Pressure Cooker 2.0,Home & Kitchen,Cookware,Milton,879,4.3,63
+PROD2419,Funskool Building Blocks X,Toys & Games,Toys,Funskool,2619,4.6,44
+PROD1003,Xiaomi Neckband Max,Electronics,Headphones,Xiaomi,869,4.9,99
+PROD1263,Sony Neckband Max,Electronics,Headphones,Sony,2139,3.8,507
+PROD1432,Adidas Running Shoes X,Fashion,footwear,Adidas,1109,4.0,236
+PROD1491,Bata Sneakers Essential,Fashion,Footwear,,889,4.6,147
+PROD1504,Levis Hoodie Classic,Fashion,Men's Clothing,Levis,1639,5.0,357
+PROD1970,Milton Mixer Grinder Plus,Home & Kitchen,Appliances,Milton,2119,4.2,502
+PROD1646,Adidas Western Dress Plus,Fashion,Women's Clothing,Adidas,3999,4.8,50
+PROD1763,Nilkamal Lunch Box Set Lite,Home & Kitchen,cookware,Nilkamal,409,4.2,568
+PROD1397,Biba Formal Shirt Max,Fashion,Men's Clothing,Biba,539,3.6,93
+PROD2015,Nilkamal Pressure Cooker Max, Home & Kitchen ,Cookware,Nilkamal,"₹1,369",3.9,424
+PROD2348,Nivia Badminton Racket Lite,Sports & Fitness,Outdoor,Nivia,739,5.0,116
+PROD1444,Roadster Palazzo Set Lite,Fashion,Women's Clothing,Roadster,2189,3.4,345
+PROD1536,Levis Sneakers Classic,Fashion,Footwear,,4269,4.4,329
+PROD1752,Milton Induction Cooktop Essential,Home & Kitchen,Appliances,Milton,979,4.1,99
+PROD1200,Samsung Feature Phone Classic,Electronics,Mobiles,Samsung,52369,4.7,456
+PROD1201,Sony Neckband Essential,Electronics,Headphones,Sony,5159,4.0,408
+PROD2369, Cosco Cycling Helmet X ,Sports & Fitness,Outdoor,Cosco,2329,4.9,453
+PROD2038,Rupa Bestselling Novel Essential,Books,Fiction,Rupa,509,4.0,26
+PROD1563,Allen Solly Sneakers X,Fashion,Footwear,Allen Solly,"₹1,049",3.8,388
+PROD1882,Philips Electric Kettle 2.0,Home & Kitchen,Appliances,Philips,5979,4.0,394
+PROD1768,Pigeon Electric Kettle Plus,Home & Kitchen,Appliances,Pigeon,6629,3.4,60
+PROD1699,Puma Formal Shirt Max,Fashion,Men's Clothing,Puma,569,4.6,194
+PROD1507,Roadster Western Dress Essential,Fashion,Women's Clothing,Roadster,939,4.2,588
+PROD2233,Biotique Moisturizer Classic,Beauty & Personal Care,Skincare,Biotique,199,4.8,256
+PROD1471,Nike Running Shoes Lite,Fashion,Footwear,Nike,,4.8,66
+PROD1032,Lenovo Smartphone 5G 2.0,Electronics,Mobiles,Lenovo,"₹15,649",4.8,45
+PROD1271,Lenovo Feature Phone X,electronics,MOBILES,Lenovo,36169,4.7,15
+PROD1407,Roadster Running Shoes Max,Fashion,Footwear,Roadster,559,4.8,507
+PROD1903, Nilkamal Office Chair X ,Home & Kitchen,Furniture,Nilkamal,Rs. 4919,4.2,74
+PROD1820,Nilkamal Mixer Grinder Essential,Home & Kitchen,Appliances,Nilkamal,6019,4.3,54
+PROD1470,Biba Saree Lite,Fashion,WOMEN'S CLOTHING,Biba,0,4.0,30
+PROD2025,Nilkamal Mixer Grinder Lite,Home & Kitchen,Appliances,Nilkamal,3749,4.5,446
+PROD1910,Wipro Bookshelf 2.0,home & kitchen,Furniture,Wipro,2459,4.0,374
+PROD2423,Lego Building Blocks Classic,Toys & Games,Toys,Lego,559,3.5,114
+PROD1382,Bata Running Shoes Pro,Fashion,Footwear,Bata,1539,4.2,516
+PROD1274,boAt Smartphone 4G Essential,Electronics,Mobiles,boAt,32359,4.1,477
+PROD2017,Milton Pressure Cooker Lite,Home & Kitchen,Cookware,Milton,1449,4.5,127
+PROD1006,Realme Fitness Band Pro,Electronics,Smartwatches,Realme,2339,,215
+PROD1900,Nilkamal Study Table 2.0,Home & Kitchen,Furniture,Nilkamal,10789,3.3,526
+PROD2028,Wipro Electric Kettle 2.0,Home & Kitchen,Appliances,Wipro,1359,3.5,266
+PROD2476, Amul Protein Bar Box Plus ,Grocery,Snacks & Beverages,Amul,Rs. 819,4.3,260
+PROD1210,Noise Laptop 15 inch Max,Electronics,Laptops,Noise,87439,3.9,383
+PROD1122,Xiaomi Smartphone 5G Lite,Electronics,Mobiles,Xiaomi,24199,4.5,329
+PROD2380,Decathlon Dumbbell Set Plus,Sports & Fitness,Gym Equipment,Decathlon,5629,4.5,463
+PROD1825,Milton Non-Stick Pan Set 2.0,Home & Kitchen,Cookware,Milton,"₹3,259",4.9,437
+PROD1001,Lenovo Smartphone 4G Lite,Electronics,MOBILES,Lenovo,Rs. 67579,3.5,527
+PROD1813,Milton Office Chair X,Home & Kitchen,Furniture,Milton,3429,4.0,56
+PROD2166,Nivea Eau de Parfum Classic,Beauty & Personal Care,Fragrances,Nivea,219,3.7,51
+PROD2119,HarperCollins Productivity Book Pro,Books,Self-Help,HarperCollins,249,4.4,148
+PROD2088,Penguin Finance Book 2.0,BOOKS,Self-Help,Penguin,229,4.1,222
+PROD1940,Prestige Bookshelf Plus,Home & Kitchen,Furniture,Prestige,10659,3.5,587
+PROD1311,Lenovo Smartphone 4G Classic,Electronics,Mobiles,Lenovo,13419,3.6,158
+PROD1234, Samsung Smartphone 4G X ,Electronics,MOBILES,Samsung,11889,4.5,364
+PROD1100,Apple Feature Phone Plus,Electronics,Mobiles,Apple,11379,4.7,429
+PROD1318,Sony Neckband Pro,ELECTRONICS, Headphones ,Sony,2119,4.5,253
+PROD1338,Allen Solly Kurti Lite,Fashion,WOMEN'S CLOTHING,Allen Solly,579,4.1,107
+PROD1403,Roadster Cotton T-Shirt Classic,FASHION,Men's Clothing,Roadster,,3.3,355
+PROD1389,Puma Kurti 2.0,Fashion,Women's Clothing,Puma,2709,4.2,566
+PROD1103,Realme Fitness Band Plus,electronics,Smartwatches,Realme,2039,4.1,16
+PROD1196,Realme Laptop 15 inch X,Electronics,Laptops,Realme,101399,4.1,37
+PROD2195,Nivea Face Serum 2.0,Beauty & Personal Care,Skincare,Nivea,2229,4.5,540
+PROD1590, Roadster Cotton T-Shirt 2.0 ,Fashion,Men's Clothing,Roadster,409,4.1,252
+PROD1941,Prestige Induction Cooktop Plus,Home & Kitchen,Appliances,Prestige,939,3.7,344
+PROD1621,Levis Formal Shirt 2.0,Fashion,Men's Clothing,Levis,2009,4.7,409
+PROD1134,OnePlus Feature Phone Max,Electronics,Mobiles,OnePlus,48469,3.9,220
+PROD2343,Boldfit Cycling Helmet 2.0,Sports & Fitness,Outdoor,Boldfit,459,4.1,322
+PROD1700,Adidas Formal Shirt X,Fashion,Men's Clothing,Adidas,2229,5.0,392
+PROD1410,Levis Sneakers Classic,Fashion,Footwear,Levis,1249,4.9,150
+PROD1298,Lenovo Ultrabook Classic,Electronics,Laptops,Lenovo,97849,3.6,50
+PROD2244,Lakme Sunscreen SPF 50 2.0,Beauty & Personal Care,Skincare,Lakme,2059,3.8,238
+PROD1668,Allen Solly Hoodie Plus,Fashion,Men's Clothing,Allen Solly,1629,3.2,342
+PROD1464,Biba Kurti Max,FASHION,Women's Clothing,Biba,1309,4.3,419
+PROD1599,Adidas Hoodie Lite,Fashion,MEN'S CLOTHING,Adidas,729,4.3,310
+PROD1551,Nike Cotton T-Shirt X, FASHION ,Men's Clothing,Nike,579,4.7,268
+PROD2152,Wow Sunscreen SPF 50 X,Beauty & Personal Care,Skincare,Wow,329,3.7,299
+PROD1160,Apple Fitness Band Pro,Electronics,SMARTWATCHES,Apple,24719,4.7,267
+PROD1635,Allen Solly Formal Shirt X,Fashion,Men's Clothing,Allen Solly,579,4.3,125
+PROD2201,Dove Hair Oil Classic,beauty & personal care,Haircare,Dove,169,4.3,564
+PROD1816,Philips Lunch Box Set Lite,Home & Kitchen,Cookware,Philips,559,,451
+PROD2299,Biotique Eau de Parfum X,Beauty & Personal Care,Fragrances,Biotique,309,3.9,172
+PROD1614,Adidas Slim Fit Jeans X,Fashion,Men's Clothing,Adidas,549,4.9,451
+PROD2129,Penguin Medical Reference 2.0,Books,Academic,Penguin,639,3.9,324
+PROD1679,Bata Formal Shirt Max,Fashion,Men's Clothing,Bata,3489,5.0,382
+PROD2488,Nescafe Dry Fruits Pack Max,Grocery,Snacks & Beverages,Nescafe,119,3.5,339
+PROD1235,Apple Laptop 15 inch X,Electronics,Laptops,Apple,118919,4.0,4
+PROD2354,SG Cricket Bat Plus,Sports & Fitness,Outdoor,SG,409,4.7,579
+PROD1085,OnePlus Smartwatch Pro, Electronics ,Smartwatches,OnePlus,1989,4.0,112
+PROD1365,Biba Western Dress Pro,Fashion,Women's Clothing,Biba,4779,4.4,134
+PROD2431,Hot Wheels Board Game Essential,Toys & Games,Toys,Hot Wheels,959,3.9,380
+PROD1232,Realme Gaming Laptop Classic,Electronics,Laptops,Realme,Rs. 41719,3.0,45
+PROD2009, Havells Mixer Grinder Classic ,Home & Kitchen,Appliances,Havells,1179,4.3,90
+PROD1371,Bata Kurti Classic,Fashion,Women's Clothing,Bata,629,4.9,332
+PROD1016,Sony Fitness Band Classic,Electronics,Smartwatches,Sony,2409,3.9,87
+PROD2390,Cosco Dumbbell Set Max,Sports & Fitness,Gym Equipment,Cosco,2229,3.8,315
+PROD2070, Arihant Engineering Guide Classic ,Books, Academic ,Arihant,1359,3.4,191
+PROD1572,Levis Cotton T-Shirt Pro,FASHION,Men's Clothing,Levis,689,4.1,2
+PROD1344,Bata Palazzo Set 2.0,Fashion,Women's Clothing,Bata,Rs. 2419,2.9,429
+PROD1129,OnePlus Wireless Earbuds X,Electronics,Headphones,OnePlus,4189,4.4,514
+PROD1269,Samsung Smartwatch Plus,Electronics,Smartwatches,Samsung,17109,,232
+PROD1613,Bata Slim Fit Jeans Pro,Fashion,Men's Clothing,Bata,489,4.8,587
+PROD2402,Mattel Building Blocks Essential,Toys & Games, Toys ,Mattel,1189,5.0,83
+PROD1094,Noise Ultrabook X,Electronics,Laptops,Noise,94899,4.7,161
+PROD2259,Nivea Hair Dryer Plus,Beauty & Personal Care,Haircare,Nivea,169,4.5,270
+PROD2435,Lego Remote Control Car Plus,Toys & Games,Toys,Lego,₹209,3.3,295
+PROD1627,Levis Formal Shirt Lite,Fashion,men's clothing,,969,3.2,334
+PROD1195,Apple Smartwatch Plus,Electronics, Smartwatches ,Apple,2719,4.8,195
+PROD2316,SG Dumbbell Set Classic,Sports & Fitness,Gym Equipment,SG,6909,3.4,338
+PROD1242,Sony Feature Phone Plus,Electronics,Mobiles,Sony,8919,40.0,389
+PROD1881,Havells Air Fryer Plus,Home & Kitchen,Appliances,Havells,5549,5.0,-202
+PROD2103,Arihant Medical Reference Plus,Books,Academic,Arihant,919,3.7,287
+PROD1016,Sony Fitness Band Classic,Electronics,Smartwatches,Sony,2409,3.9,87
+PROD1043,Lenovo Smartwatch Pro,Electronics,Smartwatches,Lenovo,6099,4.8,568
+PROD1801,Philips Mixer Grinder Essential,Home & Kitchen,APPLIANCES,Philips,989,4.9,146
+PROD2044,McGraw Hill Engineering Guide Max,Books,Academic,McGraw Hill,1219,4.3,344
+PROD1205,Sony Fitness Band Classic,Electronics,Smartwatches,Sony,2889,4.3,260
+PROD2298,Nivea Hair Oil Plus,Beauty & Personal Care,Haircare,Nivea,2359,4.3,154
+PROD1792,Havells Electric Kettle X,Home & Kitchen,Appliances,Havells,8419,3.6,340
+PROD1361,Roadster Formal Shirt Essential,Fashion,Men's Clothing,Roadster,689,4.0,348
+PROD1091,Xiaomi Fitness Band Classic,Electronics,Smartwatches,Xiaomi,1949,4.7,419
+PROD2174,Biotique Eau de Parfum Plus,Beauty & Personal Care,Fragrances,Biotique,1299,3.7,41
+PROD2227,Lakme Eau de Parfum Essential,Beauty & Personal Care,Fragrances,Lakme,"₹3,619",30.0,141
+PROD1082, Apple Smartphone 4G Pro ,Electronics,Mobiles,Apple,"₹36,069",4.0,364
+PROD2111,Rupa Bestselling Novel X,Books,Fiction,Rupa,₹169,4.6,522
+PROD2281,Lakme Sunscreen SPF 50 Pro,Beauty & Personal Care,Skincare,Lakme,1039,4.0,204
+PROD2165,Mamaearth Hair Dryer 2.0,Beauty & Personal Care,Haircare,Mamaearth,3459,4.5,503
+PROD2254,Dove Hair Oil 2.0,Beauty & Personal Care,Haircare,Dove,599,4.8,14
+PROD1339,Roadster Cotton T-Shirt Lite,Fashion,Men's Clothing,Roadster,439,3.5,136
+PROD2231,Mamaearth Eau de Parfum Max,Beauty & Personal Care,Fragrances,Mamaearth,989,4.3,405
+PROD2063,Arihant Medical Reference Max,Books,Academic,Arihant,1349,4.1,133
+PROD1733,Roadster Hoodie X,FASHION,Men's Clothing,Roadster,1119,3.6,594
+PROD1096,boAt Over-Ear Headphones Max,Electronics,Headphones,boAt,8439,3.5,491
+PROD1084,Samsung Smartwatch Lite,Electronics,Smartwatches,Samsung,14959,3.3,39
+PROD1817,Havells Lunch Box Set Max, Home & Kitchen ,Cookware,Havells,559,4.4,456
+PROD1756,Nilkamal Induction Cooktop Pro,Home & Kitchen,Appliances,Nilkamal,3119,3.8,425
+PROD1702,Biba Formal Shirt Essential,Fashion,MEN'S CLOTHING,Biba,2109,2.9,462
+PROD1762,Nilkamal Pressure Cooker Classic,Home & Kitchen,Cookware,Nilkamal,1129,3.4,58
+PROD2474,Nescafe Green Tea Box Max,Grocery,Snacks & Beverages,Nescafe,₹239,4.4,122
+PROD1314,boAt Over-Ear Headphones Essential,Electronics,headphones,boAt,5409,5.0,149
+PROD1884,Pigeon Lunch Box Set Classic,Home & Kitchen,Cookware,Pigeon,729,4.9,502
+PROD1778,Philips Induction Cooktop Essential,Home & Kitchen,Appliances,Philips,2799,3.0,115
+PROD1710,W Sneakers Classic,Fashion,Footwear,W,969,3.6,405
+PROD1619,W Sandals Classic,Fashion,Footwear,W,869,3.8,100
+PROD2013, Philips Pressure Cooker Pro ,Home & Kitchen,Cookware,Philips,789,3.6,-542
+PROD1633,Allen Solly Hoodie Pro,Fashion,Men's Clothing,Allen Solly,2089,4.5,183
+PROD1555,Biba Kurti Plus,Fashion,Women's Clothing,Biba,979,4.6,89
+PROD2196,Lakme Moisturizer X,Beauty & Personal Care,Skincare,Lakme,1759,4.3,410
+PROD1197,Noise Laptop 15 inch Max,Electronics,laptops,Noise,40109,3.7,84
+PROD2427,Lego Building Blocks Max,Toys & Games,Toys,Lego,2549,4.2,347
+PROD1851,Havells Study Table Max,Home & Kitchen,Furniture,Havells,16919,4.1,519
+PROD2338,SG Dumbbell Set Essential,Sports & Fitness,Gym Equipment,SG,799,3.8,79
+PROD2209,Nivea Eau de Parfum Lite,Beauty & Personal Care,Fragrances,Nivea,529,4.1,246
+PROD1978,Nilkamal Lunch Box Set Max,Home & Kitchen,Cookware,,1099,4.2,334
+PROD1784,Wipro Electric Kettle Plus,Home & Kitchen,Appliances,Wipro,1529,4.6,480
+PROD2225,Dove Sunscreen SPF 50 X,Beauty & Personal Care,Skincare,Dove,1609,5.0,585
+PROD1140,Sony Wireless Earbuds X,Electronics,Headphones,,11069,5.0,197
+PROD1914,Prestige Mixer Grinder Max,Home & Kitchen,Appliances,Prestige,2379,4.6,444
+PROD1048,Apple Smartwatch Pro,Electronics,Smartwatches,Apple,3589,4.3,145
+PROD2051,Arihant Productivity Book X,Books,Self-Help,,429,4.4,165
+PROD1950, Philips Study Table Essential ,Home & Kitchen,Furniture,Philips,16569,3.7,557
+PROD2120,McGraw Hill Bestselling Novel Pro,Books,Fiction,McGraw Hill,249,4.3,437
+PROD1769,Milton Electric Kettle Classic,Home & Kitchen,Appliances,,1529,3.6,145
+PROD1241,Samsung Neckband Pro,Electronics,Headphones,Samsung,"₹2,629",3.7,323
+PROD1028,Samsung Ultrabook Pro,ELECTRONICS,Laptops,Samsung,92589,3.9,247
+PROD2425,Mattel Remote Control Car 2.0,Toys & Games,Toys,Mattel,969,,134
+PROD2449,Mattel Building Blocks 2.0,toys & games,Toys,Mattel,2859,3.5,239
+PROD2084,McGraw Hill Bestselling Novel Lite,Books,Fiction,McGraw Hill,Rs. 669,,263
+PROD1012,OnePlus Gaming Laptop Essential,Electronics,laptops,OnePlus,106589,4.5,307
+PROD2408,Lego Remote Control Car Lite,Toys & Games,Toys,Lego,609,3.9,446
+PROD2045,Penguin Productivity Book Lite,books,Self-Help,Penguin,339,4.4,261
+PROD2093,HarperCollins Productivity Book X,Books,Self-Help,HarperCollins,289,4.7,479
+PROD1985,Havells Mixer Grinder Classic,Home & Kitchen,Appliances,,Rs. 3289,3.8,179
+PROD1173,Xiaomi Fitness Band 2.0,ELECTRONICS,Smartwatches,Xiaomi,6829,5.0,303
+PROD2062,Rupa Bestselling Novel X,Books,Fiction,,749,3.0,539
+PROD2345,Boldfit Resistance Bands X,Sports & Fitness,gym equipment,Boldfit,3309,3.4,486
+PROD1469,Bata Slim Fit Jeans Plus,Fashion,Men's Clothing,,2109,4.2,404
+PROD1272,Realme Over-Ear Headphones Plus,Electronics,Headphones,Realme,5419,3.8,218
+PROD1899,Havells Non-Stick Pan Set Essential,Home & Kitchen,Cookware,Havells,869,4.1,431
+PROD1673,Allen Solly Running Shoes Essential,Fashion,Footwear,Allen Solly,"₹2,049",4.6,238
+PROD2325,Decathlon Resistance Bands X,Sports & Fitness,Gym Equipment,Decathlon,509,4.4,341
+PROD1069,OnePlus Wireless Earbuds Essential,Electronics,Headphones,OnePlus,2249,4.6,562
+PROD2047,Penguin Bestselling Novel Lite,Books,Fiction,Penguin,₹389,4.2,106
+PROD1856,Wipro Air Fryer Plus,home & kitchen,Appliances,Wipro,2449,3.4,197
+PROD2385,Boldfit Badminton Racket Plus,SPORTS & FITNESS,Outdoor,Boldfit,₹839,3.4,482
+PROD1329,Sony Smartphone 5G Essential,Electronics,Mobiles,Sony,13439,4.5,283
+PROD1606,Roadster Sandals X,Fashion,Footwear,Roadster,Rs. 2209,4.4,577
+PROD1386,Biba Sneakers Classic,Fashion,Footwear,Biba,1079,4.0,84
+PROD1561,Biba Slim Fit Jeans 2.0,Fashion,Men's Clothing,Biba,519,3.7,32
+PROD1302,Apple Feature Phone Pro, Electronics ,Mobiles,Apple,35329,5.0,123
+PROD2407,Funskool Board Game Classic,Toys & Games,Toys,Funskool,989,4.1,84
+PROD2370,Boldfit Cycling Helmet Max,Sports & Fitness,Outdoor,Boldfit,6639,3.5,121
+PROD2374,Boldfit Yoga Mat 2.0,Sports & Fitness,Gym Equipment,Boldfit,2249,3.7,103
+PROD2154,Biotique Deodorant Pack 2.0,Beauty & Personal Care,Fragrances,Biotique,959,4.4,394
+PROD1346,Roadster Slim Fit Jeans Essential,Fashion,Men's Clothing,Roadster,1069,5.0,297
+PROD2210, Nivea Hair Oil Classic ,Beauty & Personal Care,HAIRCARE,Nivea,1619,4.7,37
+PROD1355,Nike Slim Fit Jeans 2.0,Fashion,Men's Clothing,Nike,3419,5.0,273
+PROD1697,Adidas Formal Shoes Essential,Fashion,Footwear,Adidas,1209,3.7,473
+PROD1847,Milton Pressure Cooker 2.0,Home & Kitchen,Cookware,Milton,939,4.9,477
+PROD1622, Nike Formal Shoes Classic ,Fashion,Footwear,Nike,2409,4.4,343
+PROD2161,Nivea Moisturizer Max,Beauty & Personal Care,Skincare,Nivea,199,4.3,91
+PROD1528,Bata Kurti Pro,Fashion,Women's Clothing,Bata,1639,4.3,235
+PROD1796,Wipro Mixer Grinder Max,Home & Kitchen,Appliances,Wipro,1029,3.1,497
+PROD1217,Sony Ultrabook X,Electronics,Laptops,Sony,35719,3.5,176
+PROD1603,W Formal Shoes Plus,FASHION,Footwear,,Rs. 1109,3.9,461
+PROD1924,Pigeon Office Chair Plus, Home & Kitchen ,Furniture,,2049,4.1,25
+PROD2022,Milton Air Fryer Pro,Home & Kitchen,Appliances,Milton,"₹7,419",4.4,434
+PROD1883,Havells Bookshelf 2.0,Home & Kitchen,Furniture,,2869,3.2,103
+PROD1453,Nike Western Dress Max,Fashion,Women's Clothing,,649,4.0,528
+PROD1510,Roadster Sandals Lite,Fashion,footwear,Roadster,2309,4.2,548
+PROD1415,Biba Slim Fit Jeans Lite,Fashion,Men's Clothing,Biba,2119,35.0,381
+PROD2228,Wow Moisturizer Plus, Beauty & Personal Care ,Skincare,Wow,,3.0,596
+PROD1807,Wipro Lunch Box Set Plus,Home & Kitchen, Cookware ,Wipro,919,4.3,551
+PROD1688,Biba Formal Shirt Max,Fashion,Men's Clothing,Biba,2669,5.0,90
+PROD1835,Nilkamal Pressure Cooker Pro,Home & Kitchen,Cookware,Nilkamal,"₹3,189",2.9,297
+PROD1529,Levis Sneakers 2.0,Fashion,Footwear,,5529,3.8,57
+PROD2366,Nivia Cricket Bat Max,Sports & Fitness,Outdoor,Nivia,959,4.1,473
+PROD1843,Milton Electric Kettle 2.0,Home & Kitchen,Appliances,Milton,2409,4.9,219
+PROD1327,HP Smartphone 4G Plus,Electronics,Mobiles,HP,19879,4.3,420
+PROD1532,Roadster Sneakers Classic,Fashion,Footwear,Roadster,Rs. 1859,2.6,254
+PROD1915,Milton Office Chair 2.0,HOME & KITCHEN,Furniture,Milton,12879,5.0,15
+PROD1400,Roadster Hoodie 2.0,Fashion,Men's Clothing,Roadster,"₹1,859",4.6,528
+PROD2065,McGraw Hill Thriller Paperback Classic,Books,Fiction,McGraw Hill,679,3.8,135
+PROD1938,Philips Induction Cooktop X, Home & Kitchen ,Appliances,Philips,3049,3.9,119
+PROD2315,Cosco Badminton Racket Pro,Sports & Fitness, Outdoor ,Cosco,389,4.2,63
+PROD1648,Roadster Formal Shoes Max,Fashion,Footwear,Roadster,1129,3.9,298
+PROD1199,Noise Neckband X,Electronics,Headphones,Noise,1589,4.2,440
+PROD2496,Haldiram Green Tea Box X,Grocery,Snacks & Beverages,Haldiram,309,4.3,375
+PROD2422,Mattel Board Game Pro,Toys & Games,Toys,Mattel,1529,3.4,151
+PROD2247,Lakme Eau de Parfum Classic,Beauty & Personal Care,Fragrances,Lakme,639,3.7,271
+PROD1480,Puma Cotton T-Shirt Classic,Fashion,Men's Clothing,Puma,2519,4.4,321
+PROD1514,Allen Solly Running Shoes X,Fashion,Footwear,Allen Solly,549,,590
+PROD1845,Philips Air Fryer X,Home & Kitchen,Appliances,Philips,1349,4.7,315
+PROD2387,Decathlon Cycling Helmet 2.0,Sports & Fitness,Outdoor,Decathlon,809,4.0,449
+PROD1639,Roadster Formal Shirt Plus,Fashion, Men's Clothing ,Roadster,1749,4.4,500
+PROD1182,Lenovo Smartphone 5G Essential,Electronics,Mobiles,Lenovo,44579,4.6,161
+PROD2206,Nivea Hair Oil Essential,Beauty & Personal Care, Haircare ,Nivea,349,4.1,404
+PROD1933,Milton Non-Stick Pan Set X,Home & Kitchen,Cookware,Milton,1929,3.8,141
+PROD1894,Philips Study Table X,Home & Kitchen,Furniture,Philips,5219,38.0,148
+PROD1185,Lenovo Gaming Laptop Essential,Electronics, Laptops ,Lenovo,"₹123,489",5.0,541
+PROD1531,Allen Solly Saree Max,Fashion,Women's Clothing,Allen Solly,519,3.5,587
+PROD2156,Biotique Hair Dryer Essential,Beauty & Personal Care,Haircare,Biotique,Rs. 2509,4.0,444
+PROD1689,Allen Solly Palazzo Set Pro,Fashion,Women's Clothing,Allen Solly,2119,3.5,486
+PROD1745,Levis Saree X,Fashion,Women's Clothing,Levis,549,4.2,539
+PROD1764, Philips Air Fryer Plus ,Home & Kitchen,Appliances,Philips,5009,4.2,401
+PROD1845,Philips Air Fryer X,Home & Kitchen,Appliances,Philips,1349,4.7,315
+PROD2258, Wow Moisturizer Plus ,Beauty & Personal Care,Skincare,Wow,289,4.9,294
+PROD1485,Adidas Cotton T-Shirt Essential,Fashion,Men's Clothing,Adidas,1579,4.4,433
+PROD1296,Samsung Fitness Band Plus,Electronics,smartwatches,Samsung,11589,3.4,427
+PROD2043,Rupa Thriller Paperback Lite,Books,Fiction,Rupa,209,3.9,391
+PROD1373,Biba Slim Fit Jeans 2.0,Fashion,Men's Clothing,Biba,1359,3.9,126
+PROD2004,Prestige Study Table 2.0,Home & Kitchen,furniture,Prestige,11659,4.3,18
+PROD1560,Biba Hoodie Max,Fashion,Men's Clothing,Biba,969,,485
+PROD1607,Puma Sneakers Essential, Fashion ,Footwear,Puma,1369,3.4,259
+PROD1815,Pigeon Electric Kettle Lite,Home & Kitchen,Appliances,Pigeon,2679,3.9,78
+PROD2472,Amul Dry Fruits Pack X,Grocery,Snacks & Beverages,Amul,1249,4.1,384
+PROD2443,Hot Wheels Board Game 2.0,Toys & Games,Toys,Hot Wheels,559,3.7,174
+PROD1116,OnePlus Smartphone 5G Essential,Electronics,Mobiles,,8369,4.0,364
+PROD1148,boAt Smartphone 4G 2.0,Electronics,Mobiles,boAt,8269,4.4,33
+PROD1821,Nilkamal Air Fryer Lite,Home & Kitchen, Appliances ,Nilkamal,7159,4.0,316
+PROD1797,Prestige Non-Stick Pan Set Pro,Home & Kitchen,Cookware,Prestige,3239,4.5,288
+PROD2454,Hot Wheels Building Blocks X,Toys & Games,Toys,Hot Wheels,3099,3.4,413
+PROD2270,Mamaearth Deodorant Pack 2.0,Beauty & Personal Care,Fragrances,Mamaearth,389,3.8,69
+PROD2241,Nivea Hair Dryer Essential,Beauty & Personal Care,Haircare,Nivea,"₹1,659",3.6,517
+PROD2135,Arihant Thriller Paperback 2.0,Books,Fiction,Arihant,399,4.2,198
+PROD1713,Nike Formal Shoes Plus,Fashion,Footwear,Nike,899,3.3,240
+PROD2458,Hot Wheels Board Game Classic,Toys & Games,Toys,Hot Wheels,959,3.5,504
+PROD1037,Lenovo Over-Ear Headphones Max,Electronics,headphones,Lenovo,1269,4.4,554
+PROD2142,Penguin Finance Book X,Books,Self-Help,Penguin,489,3.7,328
+PROD2257,Mamaearth Hair Dryer Plus,Beauty & Personal Care,Haircare,Mamaearth,969,4.1,416
+PROD1335, Levis Saree Max ,Fashion,Women's Clothing,Levis,1089,4.0,366
+PROD1023,boAt Smartphone 4G Essential,Electronics,Mobiles,boAt,14539,,115
+PROD2282,Lakme Face Serum 2.0,Beauty & Personal Care,Skincare,Lakme,559,4.4,453
+PROD2333,Decathlon Resistance Bands Max,Sports & Fitness,Gym Equipment,Decathlon,1529,4.2,326
+PROD1602,Levis Western Dress Plus, Fashion ,Women's Clothing,Levis,1359,4.0,400
+PROD1844,Prestige Lunch Box Set Plus,Home & Kitchen,Cookware,Prestige,1239,3.9,316
+PROD1876,Wipro Study Table Max,Home & Kitchen,furniture,Wipro,5339,4.1,279
+PROD1540,Puma Formal Shoes X,Fashion, Footwear ,Puma,1389,4.3,353
+PROD2493, Nescafe Instant Coffee X ,Grocery,Snacks & Beverages,Nescafe,469,,283
+PROD1207,Samsung Neckband Lite,Electronics,Headphones,Samsung,0,3.9,363
+PROD1143,HP Smartphone 5G Classic,ELECTRONICS,Mobiles,HP,8839,4.4,593
+PROD2105,McGraw Hill Classic Edition Lite,Books,Fiction,McGraw Hill,499,4.5,269
+PROD1569,Allen Solly Kurti Essential,Fashion,Women's Clothing,Allen Solly,₹749,4.9,194
+PROD2490,Tata Protein Bar Box X,Grocery,Snacks & Beverages,Tata,Rs. 259,3.9,378
+PROD1121,OnePlus Smartphone 4G Max,Electronics,mobiles,OnePlus,33169,4.4,464
+PROD1977,Philips Induction Cooktop Classic,Home & Kitchen,Appliances,,2069,4.1,162
+PROD1454,W Sandals Pro,Fashion,Footwear,W,5039,4.3,284
+PROD1494,Roadster Slim Fit Jeans Lite,Fashion,Men's Clothing,Roadster,1189,3.7,139
+PROD2050,Arihant Classic Edition Plus,Books,Fiction,Arihant,309,3.2,573
+PROD1500,Nike Cotton T-Shirt Lite,FASHION,Men's Clothing,Nike,579,5.0,579
+PROD1754,Nilkamal Office Chair Plus,Home & Kitchen,FURNITURE,Nilkamal,"₹12,599",3.7,235
+PROD1992,Prestige Mixer Grinder Classic,Home & Kitchen,Appliances,Prestige,,4.1,255
+PROD1396,Bata Saree Lite,Fashion,Women's Clothing,Bata,979,3.6,528
+PROD2429,Lego Board Game Classic,Toys & Games,Toys,Lego,2459,4.3,9
+PROD1589,Biba Sandals Classic,Fashion,Footwear,Biba,0,,476
+PROD2489,Tata Dry Fruits Pack Essential,Grocery,Snacks & Beverages,Tata,259,4.5,443
+PROD1795,Wipro Lunch Box Set Essential,Home & Kitchen,Cookware,Wipro,1199,2.5,33
+PROD1647,Biba Palazzo Set Pro,Fashion,Women's Clothing,Biba,2009,4.0,118
+PROD2342,Cosco Yoga Mat Pro,Sports & Fitness,Gym Equipment,Cosco,₹479,4.6,334
+PROD2242,Biotique Eau de Parfum Max,Beauty & Personal Care,FRAGRANCES,Biotique,1719,4.9,49
+PROD2359,Boldfit Cycling Helmet X,Sports & Fitness,Outdoor,Boldfit,7969,4.0,536
+PROD2320,SG Cricket Bat Pro,Sports & Fitness,Outdoor,SG,1829,4.1,71
+PROD2012,Nilkamal Bookshelf Plus,Home & Kitchen,Furniture,Nilkamal,7239,4.0,126
+PROD1972,Havells Non-Stick Pan Set Max,Home & Kitchen,Cookware,Havells,Rs. 1409,3.9,311
+PROD1947,Havells Non-Stick Pan Set Plus,HOME & KITCHEN,Cookware,Havells,1019,3.4,371
+PROD1912,Pigeon Office Chair Pro,Home & Kitchen,Furniture,Pigeon,"₹2,219",4.1,341
+PROD1460,W Running Shoes Essential,FASHION,Footwear,W,4119,4.7,558
+PROD1284,Sony Smartphone 4G Max,Electronics,Mobiles,Sony,,3.8,318
+PROD2046,HarperCollins Finance Book Essential,Books,Self-Help,HarperCollins,239,4.0,52
+PROD2251,Mamaearth Hair Dryer Pro,Beauty & Personal Care,Haircare,Mamaearth,309,4.1,287
+PROD1720,W Sneakers Classic,Fashion,Footwear,W,1569,4.3,445
+PROD2026,Prestige Office Chair Lite,Home & Kitchen,Furniture,Prestige,8299,4.1,16
+PROD1548,Levis Formal Shoes Pro,Fashion,Footwear,Levis,1849,3.6,495
+PROD2053,McGraw Hill Bestselling Novel Essential,Books,Fiction,McGraw Hill,309,4.3,421
+PROD1498,Allen Solly Palazzo Set X,FASHION,Women's Clothing,Allen Solly,1069,3.6,16
+PROD1920,Nilkamal Air Fryer Essential,Home & Kitchen,Appliances,Nilkamal,6239,3.4,419
+PROD2412,Hot Wheels Remote Control Car 2.0,Toys & Games,Toys,Hot Wheels,259,4.9,49
+PROD2029,Wipro Bookshelf 2.0,Home & Kitchen,Furniture,Wipro,8529,4.7,230
+PROD2305,Nivia Badminton Racket Classic,Sports & Fitness,Outdoor,Nivia,7839,41.0,166
+PROD2056,HarperCollins Classic Edition Classic,Books,Fiction,HarperCollins,639,4.4,240
+PROD1421, Roadster Formal Shirt X ,Fashion,Men's Clothing,Roadster,"₹3,009",4.3,15
+PROD1156,Realme Smartwatch Essential,Electronics,Smartwatches,,18749,3.5,433
+PROD1564,Adidas Kurti Lite,Fashion,Women's Clothing,Adidas,1199,4.9,433
+PROD1519,Biba Western Dress Max,Fashion,Women's Clothing,Biba,989,3.9,591
+PROD1870,Nilkamal Induction Cooktop Plus,Home & Kitchen,appliances,Nilkamal,4699,3.8,86
+PROD2485,Amul Protein Bar Box Plus,grocery,Snacks & Beverages,,329,4.8,14
+PROD1610,Roadster Western Dress Pro,Fashion,Women's Clothing,Roadster,1159,3.9,286
+PROD1586,Bata Hoodie 2.0,Fashion,MEN'S CLOTHING,Bata,679,5.0,299
+PROD1259,Lenovo Gaming Laptop Plus, Electronics ,Laptops,Lenovo,39549,3.6,481
+PROD1297,Apple Smartphone 5G 2.0,Electronics,Mobiles,Apple,30459,4.0,149
+PROD1553,Adidas Cotton T-Shirt Max, Fashion ,Men's Clothing,Adidas,2299,3.9,156
+PROD2034,HarperCollins Finance Book Max, Books ,Self-Help,HarperCollins,659,3.7,415
+PROD1691,Adidas Cotton T-Shirt 2.0,Fashion,Men's Clothing,Adidas,2209,3.3,280
+PROD2031,HarperCollins Productivity Book Lite,Books,Self-Help,HarperCollins,219,4.4,424
+PROD2232,Mamaearth Hair Dryer Max,Beauty & Personal Care,Haircare,Mamaearth,389,3.7,310
+PROD1842,Prestige Bookshelf X,Home & Kitchen,Furniture,Prestige,4189,3.4,73
+PROD2399,Boldfit Dumbbell Set Essential,Sports & Fitness,Gym Equipment,Boldfit,1799,3.8,325
+PROD1291,Realme Fitness Band Essential,Electronics,Smartwatches,Realme,"₹5,799",3.9,212
+PROD1927,Prestige Lunch Box Set Classic,Home & Kitchen,Cookware,Prestige,1449,,144
+PROD2073,Penguin Medical Reference 2.0,Books,ACADEMIC,Penguin,619,4.6,325
+PROD1686, W Formal Shoes Classic ,Fashion,Footwear,W,4459,,202
+PROD1448,Puma Kurti Pro,Fashion,Women's Clothing,Puma,529,4.3,224
+PROD1052,OnePlus Smartphone 5G Classic,Electronics,Mobiles,OnePlus,27879,2.9,260
+PROD1308,Xiaomi Gaming Laptop Plus,Electronics,Laptops,Xiaomi,"₹69,999",4.0,68
+PROD2339,Nivia Cycling Helmet Essential,Sports & Fitness,Outdoor,Nivia,969,4.3,508
+PROD1488,Bata Cotton T-Shirt Max,Fashion,Men's Clothing,Bata,1829,4.4,471
+PROD1591, Bata Sandals Max ,Fashion,Footwear,Bata,509,4.0,312
+PROD1742,Puma Formal Shirt X,Fashion,Men's Clothing,Puma,1109,5.0,376
+PROD1959,Milton Air Fryer X, Home & Kitchen ,Appliances,Milton,1539,4.2,330
+PROD2415,Mattel Board Game Essential,Toys & Games,Toys,Mattel,229,3.7,558
+PROD1638,Bata Formal Shoes Classic,Fashion,Footwear,Bata,5029,4.5,470
+PROD1119,Realme Neckband Essential,Electronics,Headphones,Realme,1639,3.6,390
+PROD1442,Biba Palazzo Set Pro,Fashion,Women's Clothing,Biba,3499,4.5,15
+PROD2418,Mattel Remote Control Car Pro,Toys & Games,Toys,Mattel,1829,4.2,303
+PROD1000,Sony Laptop 15 inch Classic,Electronics, Laptops ,Sony,122999,4.6,366
+PROD1653,Nike Running Shoes X,Fashion,Footwear,Nike,Rs. 659,4.0,480
+PROD1086,boAt Gaming Laptop 2.0,electronics,LAPTOPS,boAt,83169,4.5,220
+PROD1171,Samsung Smartwatch X,Electronics,Smartwatches,Samsung,2239,,365
+PROD1865,Havells Lunch Box Set Max,Home & Kitchen,Cookware,Havells,1159,3.9,28
+PROD1027,Apple Smartwatch Max,Electronics, Smartwatches ,Apple,3479,4.1,457
+PROD1785,Prestige Induction Cooktop X,Home & Kitchen,Appliances,Prestige,3589,4.8,45
+PROD1746,Adidas Western Dress Plus,Fashion,Women's Clothing,Adidas,579,3.7,362
+PROD1748,Allen Solly Running Shoes X, Fashion ,Footwear,Allen Solly,1239,5.0,547
+PROD1579,Allen Solly Formal Shirt Classic,Fashion,Men's Clothing,Allen Solly,909,4.1,514
+PROD2276,Mamaearth Eau de Parfum Max,Beauty & Personal Care,Fragrances,Mamaearth,199,3.6,586
+PROD1552,Biba Palazzo Set 2.0,Fashion,Women's Clothing,Biba,"₹3,479",4.8,416
+PROD2456,Hot Wheels Remote Control Car Max,Toys & Games,Toys,Hot Wheels,659,4.2,86
+PROD1935,Milton Study Table Plus,Home & Kitchen,Furniture,Milton,3089,3.7,24
+PROD2155,Wow Eau de Parfum Classic,BEAUTY & PERSONAL CARE,Fragrances,Wow,Rs. 1089,4.5,-111
+PROD1626,W Cotton T-Shirt X,Fashion,Men's Clothing,W,859,3.9,24
+PROD1565,Roadster Running Shoes Lite,Fashion,Footwear,Roadster,1559,4.5,500
+PROD2149,Arihant Medical Reference Pro,Books,Academic,Arihant,949,4.4,333
+PROD1009, boAt Wireless Earbuds Lite ,Electronics,Headphones,boAt,869,3.8,538
+PROD2102,McGraw Hill Finance Book X,Books,Self-Help,McGraw Hill,359,3.6,351
+PROD1913,Prestige Office Chair Plus,Home & Kitchen,Furniture,Prestige,6129,,552
+PROD1808,Nilkamal Induction Cooktop Pro,Home & Kitchen,Appliances,Nilkamal,"₹3,119",4.7,233
+PROD1543,Biba Sneakers Essential,Fashion,Footwear,Biba,1969,4.4,262
+PROD2288,Nivea Eau de Parfum Essential,Beauty & Personal Care,Fragrances,Nivea,₹259,4.2,475
+PROD1587,Adidas Western Dress Lite,Fashion,Women's Clothing,Adidas,"₹3,469",4.9,471
+PROD2078,Penguin Medical Reference Classic,Books,Academic,Penguin,1369,5.0,349
+PROD1388,Roadster Saree X,fashion,Women's Clothing,Roadster,1719,4.3,260
+PROD2376,Decathlon Cricket Bat Plus,Sports & Fitness,outdoor,Decathlon,2869,4.3,216
+PROD1250,Realme Laptop 15 inch X,Electronics,Laptops,Realme,"₹77,619",3.9,522
+PROD1443,Puma Slim Fit Jeans Plus,Fashion,Men's Clothing,Puma,₹409,4.2,423
+PROD1165,Sony Wireless Earbuds Plus,electronics,Headphones,Sony,3459,4.4,594
+PROD1505,Puma Formal Shirt Max, Fashion ,Men's Clothing,Puma,1129,3.5,170
+PROD1264,Sony Feature Phone Max,Electronics,Mobiles,Sony,10109,5.0,94
+PROD1051,HP Fitness Band Essential,Electronics,Smartwatches,HP,1549,4.7,78
+PROD1107,HP Smartwatch Lite,Electronics,Smartwatches,HP,7229,4.8,589
+PROD2083,HarperCollins Competitive Exam Prep Essential,BOOKS,Academic,HarperCollins,₹459,4.5,527
+PROD1478, Biba Formal Shirt Essential ,Fashion,Men's Clothing,Biba,1379,,98
+PROD2264,Mamaearth Eau de Parfum Pro,Beauty & Personal Care,Fragrances,Mamaearth,1209,3.6,348
+PROD1499,Roadster Palazzo Set Plus,Fashion,Women's Clothing,Roadster,2359,3.9,503
+PROD2205,Dove Moisturizer Plus,Beauty & Personal Care,Skincare,Dove,2089,3.9,228
+PROD1204,boAt Feature Phone Max,Electronics,Mobiles,boAt,37769,4.3,247
+PROD1466,Roadster Saree Plus,Fashion,Women's Clothing,Roadster,599,3.7,277
+PROD1969,Pigeon Pressure Cooker Plus,HOME & KITCHEN,Cookware,Pigeon,"₹1,869",5.0,297
+PROD1711,Allen Solly Sneakers Classic,Fashion,Footwear,Allen Solly,Rs. 1049,4.3,578
+PROD2002,Nilkamal Office Chair Lite,Home & Kitchen,Furniture,Nilkamal,4359,3.5,150
+PROD1749,Biba Running Shoes Essential,Fashion,Footwear,Biba,3599,3.7,573
+PROD1198,boAt Smartphone 4G Essential, Electronics ,Mobiles,boAt,16319,4.2,259
+PROD2080,Rupa Classic Edition Essential,Books,Fiction,Rupa,379,4.9,514
+PROD2303,Decathlon Yoga Mat Pro,Sports & Fitness,Gym Equipment,Decathlon,Rs. 6069,4.6,287
+PROD2355,SG Cycling Helmet Classic, Sports & Fitness ,Outdoor,SG,769,4.6,337
+PROD1190,Apple Smartphone 5G Plus,Electronics,Mobiles,Apple,Rs. 18429,4.0,388
+PROD2214,Dove Deodorant Pack Classic,Beauty & Personal Care,Fragrances,Dove,659,3.6,260
+PROD2246,Mamaearth Hair Dryer Max,Beauty & Personal Care,Haircare,Mamaearth,1159,3.5,122
+PROD2138,Arihant Finance Book 2.0,Books,Self-Help,Arihant,209,3.9,570
+PROD1151,boAt Smartwatch 2.0, ELECTRONICS ,Smartwatches,boAt,3019,,563
+PROD2484,Tata Instant Coffee Max,Grocery,Snacks & Beverages,Tata,₹99,4.2,274
+PROD1187, OnePlus Over-Ear Headphones Max ,Electronics,Headphones,OnePlus,10169,5.0,584
+PROD2097,Rupa Thriller Paperback Plus,Books,Fiction,Rupa,319,4.0,254
+PROD1729,Allen Solly Kurti X,fashion,Women's Clothing,Allen Solly,759,4.3,37
+PROD1240,Sony Over-Ear Headphones 2.0,Electronics,headphones,Sony,1139,3.4,525
+PROD1145,Sony Smartphone 4G 2.0,Electronics,Mobiles,Sony,13909,4.4,522
+PROD1562,Bata Formal Shoes 2.0,Fashion,Footwear,Bata,3279,4.3,131
+PROD1255,Lenovo Laptop 15 inch Lite,Electronics,Laptops,Lenovo,120929,,513
+PROD1095,Xiaomi Feature Phone Pro,Electronics,Mobiles,Xiaomi,37529,4.2,255
+PROD2395,Nivia Yoga Mat Plus,Sports & Fitness,Gym Equipment,Nivia,3439,4.6,305
+PROD2394,Boldfit Cycling Helmet Classic, Sports & Fitness ,Outdoor,Boldfit,659,3.9,473
+PROD1412,Bata Saree 2.0,Fashion,Women's Clothing,,4719,4.4,492
+PROD2185,Nivea Sunscreen SPF 50 Essential,Beauty & Personal Care, Skincare ,,229,4.4,520
+PROD1426,W Palazzo Set 2.0,Fashion,Women's Clothing,W,2399,3.1,-581
+PROD1243,Lenovo Fitness Band Classic,Electronics,Smartwatches,Lenovo,4629,4.1,65
+PROD1680,Adidas Saree X,Fashion,Women's Clothing,Adidas,1559,3.9,356
+PROD2440,Lego Remote Control Car X,Toys & Games, Toys ,Lego,1289,3.5,97
+PROD1343,Puma Running Shoes X,Fashion,Footwear,Puma,729,4.2,208
+PROD1954,Philips Non-Stick Pan Set Pro,Home & Kitchen,Cookware,Philips,2249,4.7,593
+PROD2346, Decathlon Cycling Helmet 2.0 ,Sports & Fitness,Outdoor,Decathlon,849,4.1,2
+PROD2054,HarperCollins Engineering Guide X,Books,Academic,HarperCollins,369,4.2,410
+PROD2397,Boldfit Badminton Racket Max,SPORTS & FITNESS,Outdoor,Boldfit,2489,3.8,400
+PROD2284,Nivea Hair Dryer Max,Beauty & Personal Care,Haircare,Nivea,229,4.5,593
+PROD1706,Adidas Western Dress Plus,Fashion,Women's Clothing,Adidas,2209,4.2,462
+PROD1056,Realme Laptop 15 inch X,Electronics,Laptops,Realme,36639,3.9,341
+PROD1216,boAt Ultrabook 2.0,electronics,Laptops,boAt,65419,3.3,199
+PROD1422,Bata Palazzo Set Plus,Fashion,Women's Clothing,Bata,3079,4.2,250
+PROD1149,Realme Laptop 15 inch Essential,Electronics,Laptops,Realme,37829,4.2,136
+PROD1533,Puma Palazzo Set Pro,Fashion,Women's Clothing,Puma,609,4.2,411
+PROD1183,Apple Over-Ear Headphones Classic,Electronics,Headphones,Apple,2719,4.0,311
+PROD2024,Milton Office Chair Pro,HOME & KITCHEN,Furniture,Milton,13609,3.7,510
+PROD2411,Lego Building Blocks Classic,Toys & Games,Toys,Lego,699,,119
+PROD2150,Lakme Eau de Parfum 2.0,Beauty & Personal Care,Fragrances,Lakme,519,3.6,26
+PROD2318,Boldfit Badminton Racket 2.0,Sports & Fitness,Outdoor,Boldfit,7609,3.1,195
+PROD2068,HarperCollins Competitive Exam Prep Classic,Books,Academic,HarperCollins,939,3.8,194
+PROD1946,Havells Study Table 2.0,Home & Kitchen,Furniture,Havells,2059,4.7,503
+PROD2337,SG Cricket Bat Lite,Sports & Fitness,Outdoor,SG,489,3.8,34
+PROD1951,Milton Non-Stick Pan Set Lite,Home & Kitchen,Cookware,Milton,909,3.8,406
+PROD1823,Havells Air Fryer Plus,Home & Kitchen,Appliances,Havells,1469,4.7,211
+PROD1109,Sony Fitness Band Classic,ELECTRONICS,Smartwatches,Sony,13009,4.2,398
+PROD2082,Rupa Productivity Book 2.0, Books ,Self-Help,Rupa,279,4.0,27
+PROD1393,Nike Kurti Max,Fashion,Women's Clothing,Nike,2009,5.0,63
+PROD1818,Nilkamal Air Fryer 2.0,Home & Kitchen,Appliances,Nilkamal,7759,4.9,188
+PROD1456, Adidas Running Shoes Max ,Fashion,Footwear,Adidas,879,4.7,235
+PROD1360,Adidas Formal Shoes 2.0, Fashion ,Footwear,Adidas,769,5.0,89
+PROD1709,W Slim Fit Jeans Essential,Fashion,Men's Clothing,W,649,4.1,5
+PROD1439,Levis Formal Shirt Essential,Fashion,Men's Clothing,Levis,Rs. 1489,3.0,143
+PROD1174,Noise Gaming Laptop Max,Electronics,Laptops,Noise,73309,3.8,323
+PROD2146,Penguin Medical Reference Essential,Books,Academic,Penguin,539,33.0,180
