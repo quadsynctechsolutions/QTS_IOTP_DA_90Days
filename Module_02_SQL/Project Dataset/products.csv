@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price
+P2001,Laptop,Electronics,Boat,31330
+P2002,Wireless Mouse,Electronics,HP,62640
+P2003,Keyboard,Electronics,Logitech,16940
+P2004,Monitor,Electronics,Logitech,7300
+P2005,Tablet,Electronics,Boat,8410
+P2006,Smartphone,Electronics,Logitech,4100
+P2007,Power Bank,Electronics,Logitech,9890
+P2008,Bluetooth Speaker,Electronics,Dell,1420
+P2009,Headphones,Electronics,Samsung,3390
+P2010,Smart Watch,Electronics,HP,39510
+P2011,Mixer Grinder,Home & Kitchen,Philips,8390
+P2012,Electric Kettle,Home & Kitchen,Bajaj,1660
+P2013,Air Fryer,Home & Kitchen,Milton,450
+P2014,Cookware Set,Home & Kitchen,Milton,13040
+P2015,Water Bottle,Home & Kitchen,Bajaj,760
+P2016,Dinner Set,Home & Kitchen,Philips,700
+P2017,Vacuum Cleaner,Home & Kitchen,Philips,1200
+P2018,Storage Box,Home & Kitchen,Bajaj,5380
+P2019,Coffee Maker,Home & Kitchen,Pigeon,4370
+P2020,Toaster,Home & Kitchen,Bajaj,2600
+P2021,T-Shirt,Clothing,Nike,4280
+P2022,Jeans,Clothing,Puma,4550
+P2023,Formal Shirt,Clothing,Levis,6130
+P2024,Kurta,Clothing,Nike,1240
+P2025,Saree,Clothing,Biba,6370
+P2026,Jacket,Clothing,Allen Solly,3000
+P2027,Hoodie,Clothing,Puma,2140
+P2028,Track Pants,Clothing,Puma,560
+P2029,Dress,Clothing,Allen Solly,890
+P2030,Sneakers,Clothing,Biba,2930
+P2031,Face Wash,Beauty,L'Oreal,280
+P2032,Moisturizer,Beauty,Mamaearth,590
+P2033,Sunscreen,Beauty,Dove,650
+P2034,Shampoo,Beauty,Lakme,280
+P2035,Conditioner,Beauty,Lakme,620
+P2036,Perfume,Beauty,Mamaearth,1460
+P2037,Lipstick,Beauty,Mamaearth,260
+P2038,Face Serum,Beauty,Lakme,730
+P2039,Body Lotion,Beauty,Nivea,390
+P2040,Hair Oil,Beauty,Lakme,1940
+P2041,Cricket Bat,Sports,Adidas,2020
+P2042,Cricket Ball,Sports,Adidas,8910
+P2043,Football,Sports,Yonex,2720
+P2044,Badminton Racket,Sports,Cosco,330
+P2045,Yoga Mat,Sports,Nike,370
+P2046,Skipping Rope,Sports,Yonex,4830
+P2047,Dumbbells,Sports,Decathlon,510
+P2048,Tennis Balls,Sports,Adidas,580
+P2049,Sports Shoes,Sports,Adidas,2460
+P2050,Gym Gloves,Sports,Adidas,2780
+P2051,Python Programming,Books,Packt,1970
+P2052,SQL Fundamentals,Books,McGraw Hill,420
+P2053,Data Analytics,Books,Packt,820
+P2054,Machine Learning,Books,O'Reilly,430
+P2055,Web Development,Books,Pearson,250
+P2056,Java Programming,Books,Penguin,1210
+P2057,JavaScript Guide,Books,Packt,2020
+P2058,Business Analytics,Books,O'Reilly,740
+P2059,Statistics,Books,O'Reilly,1620
+P2060,Excel for Professionals,Books,Packt,1400
+P2061,Basmati Rice,Grocery,Fortune,1290
+P2062,Wheat Flour,Grocery,MDH,210
+P2063,Cooking Oil,Grocery,Fortune,1840
+P2064,Tea,Grocery,Fortune,250
+P2065,Coffee,Grocery,Fortune,2510
+P2066,Sugar,Grocery,Fortune,1440
+P2067,Dry Fruits,Grocery,MDH,320
+P2068,Spices,Grocery,Bru,2960
+P2069,Breakfast Cereal,Grocery,Tata,520
+P2070,Pulses,Grocery,Fortune,450
+P2071,Wallet,Accessories,American Tourister,4280
+P2072,Backpack,Accessories,American Tourister,2230
+P2073,Sunglasses,Accessories,American Tourister,730
+P2074,Belt,Accessories,Wildcraft,990
+P2075,Travel Bag,Accessories,Skybags,160
+P2076,Cap,Accessories,Wildcraft,960
+P2077,Keychain,Accessories,Lavie,2050
+P2078,Laptop Sleeve,Accessories,American Tourister,2820
+P2079,Phone Cover,Accessories,Fastrack,1060
+P2080,Umbrella,Accessories,Wildcraft,170
+P2081,Office Chair,Furniture,Ikea,6210
+P2082,Study Table,Furniture,Godrej,3220
+P2083,Bookshelf,Furniture,Godrej,11870
+P2084,Dining Chair,Furniture,Godrej,5520
+P2085,Coffee Table,Furniture,Nilkamal,3170
+P2086,Bedside Table,Furniture,Ikea,7510
+P2087,Shoe Rack,Furniture,Nilkamal,6210
+P2088,TV Unit,Furniture,Godrej,8550
+P2089,Bean Bag,Furniture,Godrej,22750
+P2090,Computer Desk,Furniture,Wakefit,1860
+P2091,Building Blocks,Toys,Hamleys,330
+P2092,Remote Car,Toys,Mattel,1120
+P2093,Puzzle Set,Toys,Lego,4090
+P2094,Board Game,Toys,Funskool,690
+P2095,Action Figure,Toys,Mattel,390
+P2096,Doll,Toys,Hasbro,160
+P2097,Toy Train,Toys,Hamleys,1180
+P2098,Educational Kit,Toys,Hasbro,880
+P2099,Rubik Cube,Toys,Hasbro,2270
+P2100,Soft Toy,Toys,Lego,6880
